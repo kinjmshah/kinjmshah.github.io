@@ -14,18 +14,14 @@ My prior experiences involve research in point-of-care diagnostic device design 
 I am seeking product facing opportunities focused on medical device design and development. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
 
 # Education
-## Johns Hopkins University
+### Johns Hopkins University
 *Whiting School of Engineering, Laboratory for Computational Sensing and Robotics*    
 **M.S.E. in Robotics**        
 Honors: LCSR Faculty Scholarship (2019-2021)      
 
-## University of Pennsylvania
-*School of Engineering and Applied Sciences*    
-**B.S.E. in Bioengineering**    
-
-*The Wharton School*     
-**B.S. in Economics**, Concentration in Operations and Information Management
-
+### University of Pennsylvania
+*School of Engineering and Applied Sciences*, **B.S.E. in Bioengineering**    
+*The Wharton School*, **B.S. in Economics**, Concentration in Operations and Information Management     
 Honors: Ruhr Fellowship (2014), Dean's List (2012-13, 2015-16), Advancing Women in Engineering Abraham Research Scholar (2013)
 
 # Recent News 
