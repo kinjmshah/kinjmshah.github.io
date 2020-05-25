@@ -14,11 +14,11 @@ My prior experiences involve research in point-of-care diagnostic device design 
 I am seeking product facing opportunities focused on medical device design and development. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
 
 # Education
-## Johns Hopkins University
+### Johns Hopkins University
 *Whiting School of Engineering, Laboratory for Computational Sensing and Robotics*      
 **M.S.E. in Robotics**        
 
-## University of Pennsylvania
+### University of Pennsylvania
 *The Wharton School*    
 **B.S. in Economics**, Concentration in Operations and Information Management      
 
