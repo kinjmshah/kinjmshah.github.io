@@ -31,7 +31,7 @@ I am seeking product facing opportunities focused on medical device design and d
 Our COVID-19 county-level summaries dataset wins the Kaggle [COVID-19 Dataset Award](https://www.kaggle.com/data/139140#796870)
 
 <span style="color:gray">03/25/2020</span>         
-Our machine readable COVID-19 county-level summaries dataset aggregating data for 300+ variables is now avilable on Github. We hope that this dataset can support COVID-19 research.             
+Our machine readable COVID-19 county-level summaries dataset aggregating data for 300+ variables is now available on Github. We hope that this dataset can support COVID-19 research.             
 [Dataset Link](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)                  
 [Paper Link](https://arxiv.org/abs/2004.00756)
 
