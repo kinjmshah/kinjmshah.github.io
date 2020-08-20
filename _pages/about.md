@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about the intersection of technology and medicine. My research interests focus on the integration of deep learning, augmented reality, and haptic interfaces to develop rehabilitation therapies and improve minimally-invasive treatments. 
+I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about the intersection of technology and medicine. My research interests focus on designing workload aware dynamic interfaces to improve human-computer interaction.
 
 My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at medical device and biotechnology companies.
 
-I am seeking product facing opportunities focused on medical device design and development. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
+I am seeking research opportunities focused on medical device design and development. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
 
 # Education
 ### Johns Hopkins University
 *Whiting School of Engineering, Laboratory for Computational Sensing and Robotics*      
 **M.S.E. in Robotics**        
+Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments        
 
 ### University of Pennsylvania
 *The Wharton School*    
