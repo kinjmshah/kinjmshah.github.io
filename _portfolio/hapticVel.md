@@ -8,7 +8,10 @@ Current approaches to motion guidance with haptic feedback largely focus on corr
 
 ## Wearable Device Design
 1-DOF wearable haptic guidance device about the shoulder consiting of two vibrotactile actuators controlled by a Raspberry Pi Zero W (RPi) micro-controller. An Adafruit BNO055 inertial measurement unit (IMU) tracks changes in angular velocity and rotational position. The vibrotactile actuators, RPi, and IMU are sewn into an adjustable compression sleeve that can be fit to the lower arm. The vibrotactile actuators are placed such that they lie on opposite sides of the forearm to most closely replicate human touch based guidance.
-![Hardware Image](/images/haptic.png)
+
+<div align="center">
+  <img src='/images/haptic.png'>
+</div>
 
 ## Algorithm
 ![Data Image](/images/hapticData.png)
