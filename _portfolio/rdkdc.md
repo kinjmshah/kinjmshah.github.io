@@ -3,7 +3,8 @@ title: "6-DOF robot manipulation using inverse kinematics, resolved rate, and gr
 permalink: /portfolio/rdkdc
 ---
 
-Developed manipulation algorithms in MATLAB to perform pick and place with intention and writing tasks using a UR5 robot. 
+Developed manipulation algorithms in MATLAB to perform pick and place with intention and writing tasks using a UR5 robot.          
+*Additional details are available in the attached [report](https://www.kinjshah.com/files/RDKDCFinalProject.pdf)
 
 ## Written Task
 <div align="center">
@@ -20,6 +21,17 @@ The primary challenge for this task was to establish the local coordinate frame 
 6. Establish local coordinate frame of paper 
 7. Move robot arm to top right corner and initialize writing process 
 
-*Additional details are available in the attached [report](https://www.kinjshah.com/files/RDKDCFinalProject.pdf)
-
 ### [Task Performance Video](https://www.youtube.com/watch?v=aduOeCUExFI&t=16s)
+
+## Place and Mark with Intention Task
+<div align="center">
+  <img src='/images/homeandintent.png'>
+</div>
+Implemented forward kinematics, inverse kinematics, and resolved rate control methods to achieve following steps: 
+1. “Teach” the robot: Use UR5 interface to manually position the robot
+2. Establish new home: Establish configuration that avoids the singularities met by the ur5 home position
+3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above)
+4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control         
+
+### [Task Performance Video](https://www.youtube.com/watch?v=9ZHz0VcOGyU)
+
