@@ -17,7 +17,9 @@ Current approaches to motion guidance with haptic feedback largely focus on corr
 1. Initialization: Arm held parallel to ground to allow for IMU calibration.
 2. Range of Motion: User moves arms in full vertical range of motion to establish "safe motion" limits.
 3. Velocity Measurement: Angular velocity and Euler angle position data recieved from the IMU at a frequency of 100 Hz. A 3-sample moving average filter is applied to the IMU readings to smooth the velocity signal and remove noise.
-4. Vibrotactile Stimuli: Repulsive vibrotactile cues administered in response to the deviation of the participant's velocity from the desired velocity using pulse-width modulation commands. Intensity of stimulus is dependent on Weber fraction for just noticeable difference (JND) for vibration perception.
+4. Vibrotactile Stimuli: Repulsive vibrotactile cues administered in response to the deviation of the participant's velocity from the desired velocity using pulse-width modulation commands. Intensity of stimulus is dependent on Weber fraction for just noticeable difference (JND) for vibration perception.     
+
+*Further details available in [paper](https://kinjmshah.github.io/files/haptics2020_WIP.pdf)  
 
 ## Results
 Device performance was evaluated under constant and varying desired velocities. The device is able to accurately track the participant's angular velocity in 1-DOF about the shoulder joint and output vibrotactile cues in response to the difference between the participant's velocity and the desired velocity. The left image displays the system's performance with respect to a constant desired velocity while the right displays the performance with respect to a variable velocity profile. The top half of the figure displays the participant's measured velocity over time as compared to the desired velocity while the bottom half displays the activation frequencies of the vibrotactile motors. As shown, when the participant moves at velocities outside of the desired range, the system produces a stimulus in real-time, that increases and decreases in accordance with Weber's Law of Just Noticeable Difference. 
