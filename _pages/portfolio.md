@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed RealityEnvironments](/portfolio/mastersThesis)
+## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
 *Coming Soon*
 
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
