@@ -16,13 +16,13 @@ Point of care diagnostics still require significant manual pre-processing with e
 </div>
 
 ## Workflow
-The device brings diagnosis to the point of care: a physician injects a patient blood sample into our PDMS chip (which uses a size-based filter as a centrifuge substitute), and the sample is automatically processed to generate a diagnosis. 
+The device brings diagnosis to the point of care: a physician injects a patient blood sample into our PDMS chip (which uses a size-based filter as a centrifuge substitute), and the sample is automatically processed to generate a diagnosis. The iPhone app videos and analyzes the fluorescence of tagged molecules to provide a diagnosis.
 <div align="center">
   <img src='/images/seniorDesign/workflow.png'>
 </div>
 
 ## Sample Processing
-The automation involves arduino-programming to control a servo motor to rotate a series of syringes to dispense reagents on a timed basis, a solenoid to push a needle to puncture parafilm used to hold the reagents in the syringes via negative pressure for reagent dispensing, and a pump to remove fluids after each incubation period. The iPhone app videos and analyzes the fluorescence of tagged GPC1 exosomes to provide a diagnosis.
+The automation involves arduino-programming to control a servo motor to rotate a series of syringes to dispense reagents on a timed basis, a solenoid to push a needle to puncture parafilm used to hold the reagents in the syringes via negative pressure for reagent dispensing, and a pump to remove fluids after each incubation period. This processes enables GPC1 positive exosomes to be tagged with fluorescent antibodies, enabling them to be imaged by the iPhone. 
 <div align="center">
   <img src='/images/seniorDesign/process.png'>
 </div>
