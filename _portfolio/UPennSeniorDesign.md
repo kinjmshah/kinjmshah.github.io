@@ -20,5 +20,5 @@ Detected pancreatic cancer cell derived exosomes from human serum at concentrati
   <img src='/images/seniorDesign/process.png'>
 </div>
 <div align="center">
-  <img src='/images/seniorDesign/cadModel.png'><img src='/images/seniorDesign/inside.png'>
+  <img src='/images/seniorDesign/cadModel.png'>   <img src='/images/seniorDesign/inside.png'>
 </div>
