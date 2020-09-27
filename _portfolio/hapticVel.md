@@ -1,6 +1,6 @@
 ---
 title: "Haptic Feedback for Velocity Guidance"
-excerpt: "Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.<br/><div align="center"><img src='/images/haptic.png'></div>"
+excerpt: "Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.<br/><img src='/images/haptic.png'>"
 collection: portfolio
 ---
 
@@ -14,7 +14,12 @@ Current approaches to motion guidance with haptic feedback largely focus on corr
 </div>
 
 ## Algorithm
-![Data Image](/images/hapticData.png)
+
+## Results
+The device is able to accurately track the participant's angular velocity in 1-DOF about the shoulder joint and output vibrotactile cues in response to the difference between the participant's velocity and the desired velocity. The left image displays the system's performance with respect to a constant desired velocity while the right displays the performance with respect to a variable velocity profile. The top half of the figure displays the participant's measured velocity over time as compared to the desired velocity while the bottom half displays the activation frequencies of the vibrotactile motors. As shown, when the participant moves at velocities outside of the desired range, the system produces a stimulus in real-time, that increases and decreases in accordance with Weber's Law of Just Noticeable Difference. 
+<div align="center">
+  <img src='/images/hapticData.png'>
+</div>
 
 **Proposing a framework for evaluating haptic feedback as a modality for velocity guidance**    
 <ins>Kinjal Shah</ins>, Shweta Ravichandar, Jeremy D. Brown    
