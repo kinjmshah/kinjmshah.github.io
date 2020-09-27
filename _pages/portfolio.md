@@ -19,3 +19,8 @@ Developed manipulation algorithms in MATLAB to perform pick and place with inten
   <img src='/images/rdkdc.png'>
 </div>
 
+## [UPenn Senior Design: Automated Pancreatic Cancer Diagnostic](/portfolio/UPennSeniorDesign)
+Detected pancreatic cancer cell derived exosomes from human serum at concentrations modeling precancerous stages bydeveloping an automated, microfluidics based point-of-care diagnostic device. 
+<div align="center">      
+  <img src='/images/seniorDesign/inside.png'>
+</div>
