@@ -27,11 +27,11 @@ The primary challenge for this task was to establish the local coordinate frame 
 <div align="center">
   <img src='/images/homeandintent.png'>
 </div>
-Implemented forward kinematics, inverse kinematics, and resolved rate control methods to achieve following steps: 
-1. “Teach” the robot: Use UR5 interface to manually position the robot 
-2. Establish new home: Establish configuration that avoids the singularities met by the ur5 home position 
-3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above) 
-4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control         
- 
+Implemented forward kinematics, inverse kinematics, and resolved rate control methods to achieve following steps:
+1. “Teach” the robot: Use UR5 interface to manually position the robot
+2. Establish new home: Establish configuration that avoids the singularities met by the ur5 home position
+3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above)
+4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control
+
 ### [Task Performance Video](https://www.youtube.com/watch?v=9ZHz0VcOGyU)
 
