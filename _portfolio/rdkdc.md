@@ -32,6 +32,6 @@ Implemented forward kinematics, inverse kinematics, and resolved rate control me
 2. Establish new home: Establish configuration that avoids the singularities met by the ur5 home position 
 3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above) 
 4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control         
-
+ 
 ### [Task Performance Video](https://www.youtube.com/watch?v=9ZHz0VcOGyU)
 
