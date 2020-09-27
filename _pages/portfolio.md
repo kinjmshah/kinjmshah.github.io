@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed RealityEnvironments](/portfolio/mastersThesis)
+*Coming Soon*
+
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
 Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.          
 *Accepted to 2020 Haptics Symposium*
