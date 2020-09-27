@@ -5,4 +5,4 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-[Haptic Feedback for Velocity Guidance](/portfolio/hapticVel.md)
+[Haptic Feedback for Velocity Guidance](/_portfolio/hapticVel.md)
