@@ -1,6 +1,6 @@
 ---
 title: "Haptic Feedback for Velocity Guidance"
-excerpt: "Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.<br/><img src='/images/haptic.png'>"
+excerpt: "Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.<br/><div align="center"><img src='/images/haptic.png'></div>"
 collection: portfolio
 ---
 
