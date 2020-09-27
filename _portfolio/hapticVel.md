@@ -12,5 +12,5 @@ Current approaches to motion guidance with haptic feedback largely focus on corr
 **Proposing a framework for evaluating haptic feedback as a modality for velocity guidance**    
 <ins>Kinjal Shah</ins>, Shweta Ravichandar, Jeremy D. Brown    
 *2020 Haptics Symposium - Work-in-Progress Track*     
-[Paper](https://kinjmshah.github.io/files/haptics2020_WIP.pdf)
+[Paper](https://kinjmshah.github.io/files/haptics2020_WIP.pdf)         
 [Code](https://github.com/kinjmshah/HapticVelocityGuidance)
