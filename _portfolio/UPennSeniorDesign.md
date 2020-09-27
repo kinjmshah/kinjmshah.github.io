@@ -6,4 +6,7 @@ permalink: /portfolio/UPennSeniorDesign
 Detected pancreatic cancer cell derived exosomes from human serum at concentrations modeling precancerous stages by developing an automated, microfluidics based point-of-care diagnostic device.          
 
 #### Bioengineering Senior Design Award
-#### 1st Honorable Mention -- School of Engineering and Applied Science Senior Design Competition
+#### 1st Honorable Mention - School of Engineering and Applied Science Senior Design Competition
+[Senior Design Competition Presentation Video](https://www.youtube.com/watch?v=NbAuyVjuLLE&t=1s)
+
+
