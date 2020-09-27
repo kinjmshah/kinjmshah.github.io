@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.portfolio %}
-  [Haptic Feedback for Velocity Guidance](/_portfolio/hapticVel.md)
+  {% include archive-single.html %}
 {% endfor %}
 
 
