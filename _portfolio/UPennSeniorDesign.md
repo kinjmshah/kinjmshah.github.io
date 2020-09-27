@@ -10,3 +10,18 @@ Detected pancreatic cancer cell derived exosomes from human serum at concentrati
 [Senior Design Competition Presentation Video](https://www.youtube.com/watch?v=NbAuyVjuLLE&t=1s)
 
 
+<div align="center">
+  <img src='/images/seniorDesign/goals.png'>
+</div>
+<div align="center">
+  <img src='/images/seniorDesign/workflow.png'>
+</div>
+<div align="center">
+  <img src='/images/seniorDesign/process.png'>
+</div>
+<div align="center">
+  <img src='/images/seniorDesign/cadModel.png'>
+</div>
+<div align="center">
+  <img src='/images/seniorDesign/inside.png'>
+</div>
