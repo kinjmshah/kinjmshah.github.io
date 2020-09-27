@@ -10,7 +10,7 @@ author_profile: true
 Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.          
 *Accepted to 2020 Haptics Symposium*
 <div align="center">
-  Can I do MKDOWN TEXT
+  Can I do MKDOWN TEXT       
   <img src='/images/haptic.png'>
 </div>
 
