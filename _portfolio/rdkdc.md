@@ -22,4 +22,4 @@ The primary challenge for this task was to establish the local coordinate frame 
 
 *Additional details are available in the attached [report](https://www.kinjshah.com/files/RDKDCFinalProject.pdf)
 
-### Final Performance: https://www.youtube.com/watch?v=aduOeCUExFI&t=16s
+### [Task Performance Video](https://www.youtube.com/watch?v=aduOeCUExFI&t=16s)
