@@ -3,7 +3,6 @@ title: "Automated Point-of-Care Pancreatic Cancer Diagnostic"
 permalink: /portfolio/UPennSeniorDesign
 ---
 
-# University of Pennsylvania Senior Design Project
 Detected pancreatic cancer cell derived exosomes from human serum at concentrations modeling precancerous stages by developing an automated, microfluidics based point-of-care diagnostic device.          
 
 ### Bioengineering Senior Design Award
