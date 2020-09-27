@@ -16,6 +16,6 @@ Wearable device prototype to enable motion guidance for rehabilitation through c
 ## [6-DOF robot manipulation using inverse kinematics, resolved rate, and gradient control methods](/portfolio/rdkdc)
 Developed manipulation algorithms in MATLAB to perform pick and place with intention and writing tasks using a UR5 robot.          
 <div align="center">      
-  <img src='/images/RDKDC.png'>
+  <img src='/images/rdkdc.png'>
 </div>
 
