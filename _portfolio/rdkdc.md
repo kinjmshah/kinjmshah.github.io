@@ -34,4 +34,4 @@ Implemented forward kinematics, inverse kinematics, and resolved rate control me
 3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above)     
 4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control      
 
-<iframe width="400" height="255" src="https://www.youtube.com/watch?v=9ZHz0VcOGyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="255" src="https://www.youtube.com/embed/9ZHz0VcOGyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
