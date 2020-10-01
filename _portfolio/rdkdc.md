@@ -23,6 +23,8 @@ The primary challenge for this task was to establish the local coordinate frame 
 
 ### [Task Performance Video](https://www.youtube.com/watch?v=aduOeCUExFI&t=16s)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aduOeCUExFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Place and Mark with Intention Task
 <div align="center">
   <img src='/images/homeandintent.png'>
