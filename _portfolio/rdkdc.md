@@ -21,9 +21,7 @@ The primary challenge for this task was to establish the local coordinate frame 
 6. Establish local coordinate frame of paper 
 7. Move robot arm to top right corner and initialize writing process 
 
-### [Task Performance Video](https://www.youtube.com/watch?v=aduOeCUExFI&t=16s)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aduOeCUExFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="255" src="https://www.youtube.com/embed/aduOeCUExFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Place and Mark with Intention Task
 <div align="center">
@@ -36,5 +34,4 @@ Implemented forward kinematics, inverse kinematics, and resolved rate control me
 3. Intention Pose: Display direction “intention” by establishing intention pose (home to intent pose shown in figure above)     
 4. Perform control trajectory: Inverse Kinematics, Resolved Rate Control, Gradient Control      
 
-### [Task Performance Video](https://www.youtube.com/watch?v=9ZHz0VcOGyU)
-
+<iframe width="400" height="255" src="https://www.youtube.com/watch?v=9ZHz0VcOGyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
