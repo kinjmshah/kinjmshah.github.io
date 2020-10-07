@@ -7,7 +7,7 @@ author_profile: true
 
 **Feasibility of Image-based Augmented Reality Guidance of Total Shoulder Arthroplasty Using Microsoft HoloLens1**         
 Wenhao Gu, <ins>Kinjal Shah</ins>, Jonathan Knopf, Nassir Navab, Mathias Unberath         
-***Best Paper Award*** - *MICCAI 2020 Joint Workshop on Augmented Environments for Computer Assisted Interventions*         
+***Outstanding Paper Award*** - *MICCAI 2020 Joint Workshop on Augmented Environments for Computer Assisted Interventions*         
 *Special Issue of the Journal of Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization*         
 
 **A County-level Dataset for Informing the United States' Response to COVID-19**    
