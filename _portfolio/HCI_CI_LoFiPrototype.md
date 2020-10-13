@@ -33,17 +33,17 @@ In addition to observing overall use of the platform to complete the general pla
 
 The contextual inquiry can be viewed in the video recording below. Key takeaways from observing each task and general platform interaction are listed here:
 
-**Select and save papers you identify as relevant**         
+*Select and save papers you identify as relevant*         
 - Started with general key word search
 - Looked at title, published venue, citation count, and date published to evaluate papers 
 - Clicked on title to view paper details 
 - Copied paper link and opened in new tab to save paper for later deeper evaluation 
 
-**View the abstract of a paper** 
+*View the abstract of a paper*
 - Clicked on paper title 
 - Clicked back on browser to return to search results 
 
-**Search for papers from a particular author or group**                              
+*Search for papers from a particular author or group*                              
 Path 1:          
 - Searched for author name along with paper topic 
 - Directed to author's google scholar page if one exists                                
@@ -54,16 +54,16 @@ Path 2:
 - Stated, "I wish I could see papers this author has published on this particular topic, since they have so many publications"
 - If google scholar page does not exist, searched for author along with topic area 
 
-**Identify Peer-Reviewed Papers**
+*Identify Peer-Reviewed Papers*
 - Recognized venue names of well known venues 
 - Usually scrolled past paper if venue name was not recognized and citation count was low 
 
-**Select and save relevant papers from the last year**
+*Select and save relevant papers from the last year*
 - Clicked on "Since 2020" filter on left side of page 
 - Skimmed list of paper titles, papers often in pre-print 
 - Muttered under breath "I wish I could filter by citation count" 
 
-**Other notes from general platform use**
+*Other notes from general platform use*
 - Usered wished for ability to search for high-impact papers/authors in a given area based on H-index 
 - User often accidentally "saved" the same paper more than once 
 - User looked through at maximum 2 pages of search results before changing search criteria 
