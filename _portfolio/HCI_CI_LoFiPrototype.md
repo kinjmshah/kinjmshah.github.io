@@ -23,6 +23,7 @@ Level of platform use: High, daily use
 *General Platform Objective: Search for papers on a topic of your choice*      
 
 In addition to observing overall use of the platform to complete the general platform objective above, the user was asked to perform the following specific tasks, which were deemed as common tasks completed on this platform:
+- Identify candidate papers of interest
 - Save papers you identify as relevant 
 - Pick a paper to read that was published in the last year
 - Find papers from a particular author or group
@@ -32,10 +33,12 @@ In addition to observing overall use of the platform to complete the general pla
 
 The contextual inquiry can be viewed in the video recording below. Key takeaways from observing each task and general platform interaction are listed here:
 
-<ins>Task 1: Save papers you identify as relevant</ins>        
+<ins>Task 0: Identify candidate papers of interest</ins>     
 - Started with general key word search
 - Looked at title, published venue, citation count, and date published to evaluate papers 
-- Clicked on title to view abstract and paper details                        
+- Clicked on title to view abstract and paper details 
+
+<ins>Task 1: Save papers you identify as relevant</ins>                               
 - Copied paper link and opened in new tab to save paper for later deeper evaluation
 - Returned back to search results 
 
