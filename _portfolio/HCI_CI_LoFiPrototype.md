@@ -70,4 +70,8 @@ Path 2:
 
 ## Sequential Models 
 
+<div align="center">
+  <img src='/images/hci/HCI_A1_SeqModel.png'>
+</div>
+
 
