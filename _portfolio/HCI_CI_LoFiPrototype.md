@@ -68,3 +68,7 @@ Path 2:
 - Usered wished for ability to search for high-impact papers/authors in a given area based on H-index 
 - User often accidentally "saved" the same paper more than once 
 - User looked through at maximum 2 pages of search results before changing search criteria 
+
+## Sequential Models 
+
+
