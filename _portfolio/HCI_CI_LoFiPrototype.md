@@ -1,4 +1,4 @@
 # <div align="center"> Fall 2020 Human-Computer Interaction Assignment 1 </div>
-## Contextual Inquiry and Low-Fidelity Prototyping 
+### <div align="center"> Contextual Inquiry and Low-Fidelity Prototyping </div>
 
-### Selected Platform: Google Scholar
+###  <div align="center"> Selected Platform: Google Scholar </div>
