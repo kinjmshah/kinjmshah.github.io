@@ -22,28 +22,33 @@ Level of platform use: High, daily use
 
 *General Platform Objective: Search for papers on a topic of your choice*      
 
-In addition to observing overall use of the platform to complete the general platform objective above, the user was asked to perform the following specific tasks:
-- Select and save papers you identify as relevant 
-- View the abstract of a paper
-- Search for papers from a particular author or group of authors
-- Identify peer-reviewed papers
-- Select and save papers from the last year 
+In addition to observing overall use of the platform to complete the general platform objective above, the user was asked to perform the following specific tasks, which were deemed as common tasks completed on this platform:
+- Save papers you identify as relevant 
+- Pick a paper to read that was published in the last year
+- Find papers from a particular author or group
+- Pick a peer-reviewed paper to read
 
 ### Results
 
 The contextual inquiry can be viewed in the video recording below. Key takeaways from observing each task and general platform interaction are listed here:
 
-<ins>Select and save papers you identify as relevant</ins>        
+<ins>Task 1: Save papers you identify as relevant</ins>        
 - Started with general key word search
 - Looked at title, published venue, citation count, and date published to evaluate papers 
-- Clicked on title to view paper details 
-- Copied paper link and opened in new tab to save paper for later deeper evaluation 
+- Clicked on title to view abstract and paper details                        
+- Copied paper link and opened in new tab to save paper for later deeper evaluation
+- Returned back to search results 
 
-<ins>View the abstract of a paper</ins>
-- Clicked on paper title 
-- Clicked back on browser to return to search results 
+<ins>Task 2: Pick a paper to read that was published in the last year</ins>
+- Clicked on "Since 2020" filter on left side of page 
+- Skimmed list of paper titles, papers often in pre-print 
+- Muttered under breath "I wish I could filter by citation count" 
 
-<ins>Search for papers from a particular author or group</ins>                              
+<ins>Task 3: Pick a peer-reviewed paper to read</ins>
+- Recognized venue names of well known venues 
+- Usually scrolled past paper if venue name was not recognized and citation count was low 
+
+<ins>Task 4: Find papers from a particular author or group</ins>                              
 
 Path 1:          
 - Searched for author name along with paper topic 
@@ -54,15 +59,6 @@ Path 2:
 - If google scholar page exists, clicked on link for author 
 - Stated, "I wish I could see papers this author has published on this particular topic, since they have so many publications"
 - If google scholar page does not exist, searched for author along with topic area 
-
-<ins>Identify Peer-Reviewed Papers</ins>
-- Recognized venue names of well known venues 
-- Usually scrolled past paper if venue name was not recognized and citation count was low 
-
-<ins>Select and save relevant papers from the last year</ins>
-- Clicked on "Since 2020" filter on left side of page 
-- Skimmed list of paper titles, papers often in pre-print 
-- Muttered under breath "I wish I could filter by citation count" 
 
 <ins>Other notes from general platform use</ins>
 - Usered wished for ability to search for high-impact papers/authors in a given area based on H-index 
