@@ -4,7 +4,8 @@ permalink: /portfolio/HCI
 ---
 
 <div align="center">
-  <span style="font-size:4em;">Selected Platform: Google Scholar</span>
+  <span style="font-size:1em;">Selected Platform: </span>
+  <span style="font-size:2em;"> Google Scholar </span>
 </div>
 
-##  Selected Platform: Google Scholar
+---------------------------------------------------------
