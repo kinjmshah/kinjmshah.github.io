@@ -24,7 +24,8 @@ Level of platform use: High, daily use
 
 ### Tasks 
 
-General Platform Objective: Search for papers on a topic of your choice      
+*General Platform Objective: Search for papers on a topic of your choice*      
+
 In addition to observing overall use of the platform to complete the general platform objective above, the user was asked to perform the following specific tasks:
 - Select and save papers you identify as relevant 
 - View the abstract of a paper
