@@ -17,7 +17,7 @@ Google Scholar has a wide user demographic including students and professionals 
 
 ### Sample User
 Age: 26           
-Occupation: 5th year PhD student in Computer Science
+Occupation: 5th year PhD student in Computer Science                   
 Level of platform use: High, daily use 
 
 ## Contextual Inquiry
