@@ -1,6 +1,6 @@
 ---
 title: "Human-Computer Interaction Contextual Inquiry and Low-Fidelity Prototyping"
-permalink: /portfolio/HCI/Assignment1
+permalink: /portfolio/HCI
 ---
 
 <div align="center">
