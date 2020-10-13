@@ -47,6 +47,7 @@ The contextual inquiry can be viewed in the video recording below. Key takeaways
 Path 1:          
 - Searched for author name along with paper topic 
 - Directed to author's google scholar page if one exists                                
+
 Path 2:           
 - Identified author of interest while skimming paper titles 
 - If google scholar page exists, clicked on link for author 
