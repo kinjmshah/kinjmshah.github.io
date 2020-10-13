@@ -4,7 +4,7 @@ permalink: /portfolio/HCI/Assignment1
 ---
 
 <div align="center">
-  ## Selected Platform: Google Scholar
+  <span style="font-size:4em;">Selected Platform: Google Scholar</span>
 </div>
 
 ##  Selected Platform: Google Scholar
