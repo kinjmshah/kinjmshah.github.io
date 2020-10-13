@@ -1,5 +1,5 @@
 ---
-title: Human-Computer Interaction Contextual Inquiry and Low-Fidelity Prototyping
+title: "<div align="center">Human-Computer Interaction Contextual Inquiry and Low-Fidelity Prototyping</div>"
 permalink: /portfolio/HCI_LowFidelityPrototyping
 ---
 
