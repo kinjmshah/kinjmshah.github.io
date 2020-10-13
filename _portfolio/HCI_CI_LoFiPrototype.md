@@ -43,10 +43,10 @@ The contextual inquiry can be viewed in the video recording below. Key takeaways
 - Clicked on paper title 
 - Clicked back on browser to return to search results 
 
-**Search for papers from a particular author or group** 
+**Search for papers from a particular author or group**                              
 Path 1:          
 - Searched for author name along with paper topic 
-- Directed to author's google scholar page if one exists 
+- Directed to author's google scholar page if one exists                                
 Path 2:           
 - Identified author of interest while skimming paper titles 
 - If google scholar page exists, clicked on link for author 
