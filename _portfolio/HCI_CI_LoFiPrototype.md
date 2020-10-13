@@ -1,9 +1,6 @@
 ---
-title: "Human-Computer Interaction - CI and Low-Fid Prototyping"
+title: "Human-Computer Interaction - Contextual Inquiry and Low Fidelity Prototyping"
 permalink: /portfolio/HCI_LowFidelityPrototyping
 ---
 
-# <div align="center"> Fall 2020 Human-Computer Interaction Assignment 1 </div>
-### <div align="center"> ***Contextual Inquiry and Low-Fidelity Prototyping*** </div>
-
-###  <div align="center"> <span style="font-size:5em;">Selected Platform: Google Scholar</span> </div>
+###  <span style="font-size:3em;"><div align="center">Selected Platform: Google Scholar </div></span>
