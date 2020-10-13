@@ -38,20 +38,20 @@ The contextual inquiry can be viewed in the video recording below. Key takeaways
 - Looked at title, published venue, citation count, and date published to evaluate papers 
 - Clicked on title to view abstract and paper details 
 
-    <ins>Subtask: Pick a paper to read that was published in the last year</ins>
-    - Clicked on "Since 2020" filter on left side of page 
-    - Skimmed list of paper titles, papers often in pre-print 
-    - Muttered under breath "I wish I could filter by citation count" 
+<ins>Task 2: Pick a paper to read that was published in the last year</ins>
+- Clicked on "Since 2020" filter on left side of page 
+- Skimmed list of paper titles, papers often in pre-print 
+- Muttered under breath "I wish I could filter by citation count" 
 
-    <ins>Subtask: Pick a peer-reviewed paper to read</ins>
-    - Recognized venue names of well known venues 
-    - Usually scrolled past paper if venue name was not recognized and citation count was low 
+<ins>Task 3: Pick a peer-reviewed paper to read</ins>
+- Recognized venue names of well known venues 
+- Usually scrolled past paper if venue name was not recognized and citation count was low 
 
-<ins>Task 2: Save papers you identify as relevant</ins>                               
+<ins>Task 4: Save papers you identify as relevant</ins>                               
 - Copied paper link and opened in new tab to save paper for later deeper evaluation
 - Returned back to search results 
 
-<ins>Task 3: Find papers from a particular author or group</ins>                              
+<ins>Task 5: Find papers from a particular author or group</ins>                              
 
 Path 1:          
 - Searched for author name along with paper topic 
