@@ -128,7 +128,7 @@ During contextual inquiry I noticed the user did not use the myLibrary functiona
 
 ## User Feedback 
 
-The user felt that the updated prototype provided significant improvements that would increase the productivity while using Google Scholar. Additionally, he stated that it would allow him to better organize papers during literature review, reducing stress caused by visual clutter in the workspace. In further iterations, he mentioned that more clarity around the new button functionality would be helpful to new users (e.g. description for what functionality "Preview" vs. the down arrow provides). His favorite addition was the "myLibrary" sidebar. 
+The user felt that the updated prototype provided significant improvements that would increase the productivity and reduce frustrations faced  while using Google Scholar. Additionally, he stated that it would allow him to better organize papers during literature review, reducing stress caused by visual clutter in the workspace. In further iterations, he mentioned that more clarity around the new button functionality would be helpful to new users (e.g. description for what functionality "Preview" vs. the down arrow provides). His favorite addition was the "myLibrary" sidebar. In particular he liked the feature of being able to flag papers by keywords to remind himself of why he was interested in reading the paper.  
 
 # Videos
 
