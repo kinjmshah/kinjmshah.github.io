@@ -91,28 +91,28 @@ Original view for reference:
 
 ### Peer Review Filter
 
-Will only provide search results from peer reviewed sources. 
+If selected, only peer-reviewed resources will appear as search results. 
 <div align="center">
   <img src='/images/hci/peerReview.png'>
 </div>
 
 ### Sort By Citation Count or Publication Venue
 
-Will allow for sorting results by citation count from low to high or high to low or limiting results to specific publication venues.
+Allows for sorting results by citation count from low to high or high to low or limiting results to specific publication venues.
 <div align="center">
   <img src='/images/hci/citeCountPubVenue.png'>
 </div>
 
 ### Author Page Search
 
-On an author's Google Scholar page, users will be able to search by topic.
+On an author's Google Scholar page, users will be able to search by topic/keywords.
 <div align="center">
   <img src='/images/hci/authorPage.png'>
 </div>
 
 ### View More from this Author/Group
 
-Users can expand search results to view other papers on the searched topic by the author/group. 
+Users can expand search results to view other papers on the searched topic by the author/group without navigating away from search results. 
 
 <div align="center">
   <img src='/images/hci/AuthorDropDown.png'>
