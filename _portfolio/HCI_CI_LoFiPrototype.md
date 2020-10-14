@@ -3,7 +3,7 @@ title: "Human-Computer Interaction Contextual Inquiry and Low-Fidelity Prototypi
 permalink: /portfolio/HCI
 ---
 
-## Proposed Platform Re-design: Google Scholar 
+# Proposed Platform Re-design: Google Scholar 
 
 Google Scholar is a tool widely used to conduct research. As a leading search engine, Google and Google Scholar provide unparalleled search results and are invaluable resources. For those who know what they are looking for, the tool is very easy to use and allows for quick identification of target papers, patents, and books. However, for those pursuing research into a new domain, the user interface does not enable an organized and systematic search of published literature. Given the increase in electronic publishing of research, a redesign of the interface would increase productivity and lower frustration during literature search. 
 
@@ -125,3 +125,15 @@ During contextual inquiry I noticed the user did not use the myLibrary functiona
 <div align="center">
   <img src='/images/hci/myLibrary.png'>
 </div>
+
+## User Feedback 
+
+The user felt that the updated prototype provided significant improvements that would increase the productivity while using Google Scholar. Additionally, he stated that it would allow him to better organize papers during literature review, reducing stress caused by visual clutter in the workspace. In further iterations, he mentioned that more clarity around the new button functionality would be helpful to new users (e.g. description for what functionality "Preview" vs. the down arrow provides). His favorite addition was the "myLibrary" sidebar. 
+
+# Videos
+
+## Paper Prototype Evaluation Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vBmYA_ROjwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Contextual Inquiry Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IslReOEaMnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
