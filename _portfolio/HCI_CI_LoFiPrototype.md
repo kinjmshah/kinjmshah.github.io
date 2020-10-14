@@ -84,7 +84,7 @@ Path 2:
 
 ***Please note: All images below are also available in the PDF linked here ([Images](https://kinjmshah.github.io/files/HCI_A1_Appendix.pdf)). In case there is a decrease in the clarity of the images, higher resolution images can be seen in the PDF.***
 
-Original view for reference:
+Original to new search results page for reference: 
 <div align="center">
   <img src='/images/hci/originalView.png'>
 </div>
