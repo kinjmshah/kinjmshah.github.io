@@ -74,7 +74,15 @@ Path 2:
   <img src='/images/hci/HCI_A1_SeqModel.png'>
 </div>
 
-## Design Adaptations
+## Key Pain Points Causing Breakdowns
+- Lack of ability to filter on citation count 
+- Navigation back and forth between Google Scholar and tabs causes dissorganization and loss of information 
+- Lack of ability to identify peer-reviewed work
+- Limited ability to view work of a particular author/group on a chosen topic
+
+## Design Adaptations to Address Breakdowns
+
+***Please note: All images below are also available in the PDF linked here (Images). In case there is a decrease in the clarity of the images, higher resolution images can be seen in the PDF.***
 
 Original view for reference:
 <div align="center">
