@@ -74,4 +74,12 @@ Path 2:
   <img src='/images/hci/HCI_A1_SeqModel.png'>
 </div>
 
+## Design Adaptations
+
+Original view for reference:
+
+### Peer Review Filter
+
+Will only provide search results from peer reviewed sources. 
+
 
