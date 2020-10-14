@@ -77,9 +77,43 @@ Path 2:
 ## Design Adaptations
 
 Original view for reference:
+<div align="center">
+  <img src='/images/hci/originalView.png'>
+</div>
 
 ### Peer Review Filter
 
 Will only provide search results from peer reviewed sources. 
+<div align="center">
+  <img src='/images/hci/peerReview.png'>
+</div>
 
+### Sort By Citation Count or Publication Venue
 
+Will allow for sorting results by citation count from low to high or high to low or limiting results to specific publication venues.
+<div align="center">
+  <img src='/images/hci/citeCountPubVenue.png'>
+</div>
+
+### Author Page Search
+
+On an author's Google Scholar page, users will be able to search by topic.
+<div align="center">
+  <img src='/images/hci/authorPage.png'>
+</div>
+
+### View More from this Author/Group
+
+Users can expand search results to view other papers on the searched topic by the author/group. 
+
+<div align="center">
+  <img src='/images/hci/AuthorDropDown.png'>
+</div>
+
+### More Intuitive MyLibrary Functionality
+
+During contextual inquiry I noticed the user did not use the myLibrary functionality to save papers but instead opened many tabs. This new functionality would allow users to save papers along with links and a note under keyword tags. These would be directly viewable on the right hand pane so users can see the progress of their literature search. 
+
+<div align="center">
+  <img src='/images/hci/myLibrary.png'>
+</div>
