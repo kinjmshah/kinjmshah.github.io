@@ -82,7 +82,7 @@ Path 2:
 
 ## Design Adaptations to Address Breakdowns
 
-***Please note: All images below are also available in the PDF linked here (Images). In case there is a decrease in the clarity of the images, higher resolution images can be seen in the PDF.***
+***Please note: All images below are also available in the PDF linked here ([Images](https://kinjmshah.github.io/files/HCI_A1_Appendix.pdf)). In case there is a decrease in the clarity of the images, higher resolution images can be seen in the PDF.***
 
 Original view for reference:
 <div align="center">
