@@ -13,14 +13,14 @@ While Zoom is widely used during this COVID-19 era, our primary user demographic
 
 ### Prototype Evaluation Users
 
-*User 1*
+**User 1**           
 Age: 26     
 Gender: Male       
 Occupation: 5th year PhD student in Computer Science                   
 Level of platform use: High, daily use 
 User Role: Student, TA 
 
-*User 2*      
+**User 2**           
 
 ## Diary Study: Event-Contingent Protocol
 
