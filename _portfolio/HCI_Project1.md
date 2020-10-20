@@ -13,11 +13,14 @@ The goal of our project was to go through an end-to-end design process and apply
 
 To begin our project we first decided to use some methods practiced in class to develop possible topics for the project. Our group used affinity diagramming to help think of different services to develop or areas to address in our project. The results of our session of speed iteration and brain dumping is seen below:     
 
+### Affinity Mapping
 <div align="center">
   <img src='/images/hci/brainstorm_group.png'>
 </div>
 
-After generating a wide variety of ideas to potentially address in our project, each team member selected one service that they wanted to develop further to get an initial understanding of what a potential interface for that service may look like and what kinds of problems we would be addressing if we undertook that service. As a team, we decided that services that addressed online office hours, online networking at conferences and other large events, and content viewing as a group would provide most added value to a potential user as these realms of remote interactions are currently lacking in-terms of a full functionality platform. Each member performed a very low-fidelity sketch of one of the ideas.     
+### Very Low-Fidelity Prototypes
+
+After generating a wide variety of ideas to potentially address in our project, each team member selected one service that they wanted to develop further to get an initial understanding of what a potential interface for that service may look like and what kinds of problems we would be addressing if we undertook that service. As a team, we decided that services that addressed online office hours, online networking at conferences and other large events, and content viewing as a group would provide most added value to a potential user as these realms of remote interactions are currently lacking in-terms of a full functionality platform. Each member performed a very low-fidelity sketch of one of the ideas.                    
 
 <div align="center">
   <img src='/images/hci/brainstorm_officeHours.png'>
@@ -29,7 +32,7 @@ After generating a wide variety of ideas to potentially address in our project, 
   <img src='/images/hci/brainstorm_contentViewing.png'>
 </div>
 
-After re-group and discussion of the different mock-ups, our group decided to move forward with a project addressing an office hours interface as we all are current students in school and recognize the need for additional functionality in this remote interaction. Additionally, we think this is a service where redesign could have a significant impact on the user and greatly improve remote interactions for a large population of people.     
+We asked our selected users to evaluate these paper prototypes to identify which would be most helpful in improving their day to day lives. After reviewing their responses, and discussion of the different mock-ups, our group decided to move forward with a project addressing an office hours interface as we all are current students in school and recognize the need for additional functionality in this remote interaction, and this sentiment was reflected in our target demographic user sample. Additionally, we think this is a service where redesign could have a significant impact on the user and greatly improve remote interactions for a large population of people.     
 
 # Proposed Platform Redesign: Zoom for Office Hours
 
@@ -44,9 +47,12 @@ While Zoom is widely used by many demographics during this COVID-19 era, our pri
 
 ### Diary Form Links 
 
-[Student Diary](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
+[Student Diary - Form](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
+[Student Diary - Resonses](https://docs.google.com/forms/d/1Wz797YvIhAKNiiO4G_-8z62ym9Xeb5xUJAag6hyi454/edit#responses)
 
-[Instructor/TA Diary](https://forms.gle/UN4nomS1U2A6ggAM6)
+[Instructor/TA Diary - Form](https://forms.gle/UN4nomS1U2A6ggAM6)
+
+[Instructor/TA Diary - Responses](https://docs.google.com/forms/d/1SygqkMps8jkcG2t-N7-ZyS7FchzvfTcl3qU4RrLghdA/edit#responses)
 
 ### Rationale
 
@@ -242,24 +248,24 @@ User Role: Student
 1. Please join a zoom session as you would a student.      
 2. Please enter your meeting id and join the meeting.      
 3. Please submit some questions for the TA.      
-  a. Select Problem 3, Lecture Material for topics.      
-  b. Select Debugging Help and Just listening in for type of question.      
+a. Select Problem 3, Lecture Material for topics.      
+b. Select Debugging Help and Just listening in for type of question.      
 c. Enter information for the corresponding topics you selected and click Done.      
 4. Now that the Office Hours is Active, join the session.       
 5. Please join the general discussion room.      
-  a.Listen in on the breakout room shared by the TA      
-  b. End your listen in      
-  c. Navigate back to the rooms overview      
+a.Listen in on the breakout room shared by the TA      
+b. End your listen in      
+c. Navigate back to the rooms overview      
 6. Move to the second side room      
-  a. Open the whiteboard       
+a. Open the whiteboard       
 b. Close the whiteboard      
       
 **TA**                        
 1. Please join a zoom session as you would a host.      
 2. Since your credentials are already entered, sign in.      
 3. Setup the form for your Office Hours session      
-  a. Click anywhere to setup your form.      
-  b. Click Publish Form.      
+a. Click anywhere to setup your form.      
+b. Click Publish Form.      
 4. Now that it is time to begin your Office Hours, click start.      
 5. Choose to open breakout rooms for all questions.      
 6. Click Done to open the session to students.       
@@ -267,11 +273,11 @@ b. Close the whiteboard
 8. You feel the whole class should have an opportunity to see your solution to this common issue. Let the rest of the students have the option to listen in.       
 9. End the Listen In sharing.      
 10. Open the Rooms overview.      
-  a. Open the participants pop up window.       
-  b. View the Queue Order.      
-  c. Sort the roster by Type      
-  d. Remove the student Erica from the roster since you already helped her.       
-  e. Close the roster       
+a. Open the participants pop up window.       
+b. View the Queue Order.      
+c. Sort the roster by Type      
+d. Remove the student Erica from the roster since you already helped her.       
+e. Close the roster       
 11. Click and drag Eve from Side Room 1 to Breakout room Q2 to help her with her problem.       
 
 ### User Evaluation 
@@ -315,4 +321,3 @@ In our initial high-fidelity prototype we addressed the issue of making the whit
 <div align="center">
   <img src='/images/hci/whiteboard_iteration.png'>
 </div>
-
