@@ -9,16 +9,16 @@ Kinjal Shah, Kaiyu Shi, Erica Tevere
 
 The goal of our project was to go through an end-to-end design process and apply techniques we have learned to improve or create digital services that facilitate remote interactions. Remote interactions include but are not limited to services in the realm of learning telemedicine, distributed collaborative work, and social connection. Drawing on our own experiences of online interactions, we looked into several possible ideas and selected the one we felt would have the greatest impact on user experience.
 
-## Brainstorming
+# Brainstorming
 
 To begin our project we first decided to use some methods practiced in class to develop possible topics for the project. Our group used affinity diagramming to help think of different services to develop or areas to address in our project. The results of our session of speed iteration and brain dumping is seen below:     
 
-### Affinity Mapping
+## Affinity Mapping
 <div align="center">
   <img src='/images/hci/brainstorm_group.png'>
 </div>
 
-### Very Low-Fidelity Prototypes
+## Very Low-Fidelity Prototypes
 
 After generating a wide variety of ideas to potentially address in our project, each team member selected one service that they wanted to develop further to get an initial understanding of what a potential interface for that service may look like and what kinds of problems we would be addressing if we undertook that service. As a team, we decided that services that addressed online office hours, online networking at conferences and other large events, and content viewing as a group would provide most added value to a potential user as these realms of remote interactions are currently lacking in-terms of a full functionality platform. Each member performed a very low-fidelity sketch of one of the ideas.                    
 
@@ -38,14 +38,14 @@ We asked our selected users to evaluate these paper prototypes to identify which
 
 Zoom has become a major video conferencing platform for universities around the globe for facilitating remote instruction. While Zoom has begun to cater to the needs of remote instruction via additions such as breakout rooms, whiteboards, etc., it still falls severely short of student and instructor needs.
 
-## User Research - Diary Study: Event-Contingent Protocol
+# User Research - Diary Study: Event-Contingent Protocol
 
 To understand how to best improve/create our platform for office hours, we first performed contextual inquiry into our problem. As students ourselves, we had a baseline understanding of how someone may need to use office hours and how some current platforms move the usual in-person interaction to a remote setting. 
 
-### Target User Demographic
+## Target User Demographic
 While Zoom is widely used by many demographics during this COVID-19 era, our primary user demographic are university **students** and **teaching staff (instructors, teaching assistants, course assistants)**. Although as a group we covered both groups of users, we identified the need to perform further research into how this service is currently being used across a wider spectrum. Largely we understood that the experience may be different at different schools, for different courses, for different class size, and for different majors among others. To identify usability problems with current platforms we decided to do a usability study.    
 
-### Diary Form Links 
+## Diary Form Links 
 
 [Student Diary - Form](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
 [Student Diary - Resonses](https://docs.google.com/forms/d/1Wz797YvIhAKNiiO4G_-8z62ym9Xeb5xUJAag6hyi454/edit#responses)
@@ -54,7 +54,7 @@ While Zoom is widely used by many demographics during this COVID-19 era, our pri
 
 [Instructor/TA Diary - Responses](https://docs.google.com/forms/d/1SygqkMps8jkcG2t-N7-ZyS7FchzvfTcl3qU4RrLghdA/edit#responses)
 
-### Rationale
+## Rationale
 
 In order to evaluate Zoom for Office Hour use, we needed to evaluate user experience during real office hours. Since office hours are relatively spontaneous events, and are individualized per class, it is not possible for us to observe users interacting with the interface without causing a disruption to the event. Furthermore, we did not necessarily need to observe how a user performed a given list of tasks, but rather we needed to understand how the user interacts with the platform to communicate with others. Therefore, the flexibility of the diary method enabled us to receive input from both teaching staff and student users.                     
 
@@ -72,7 +72,7 @@ In order to evaluate Zoom for Office Hour use, we needed to evaluate user experi
 - Discuss class material/problems with other students 
 - Join rooms 
 
-### Results: Making Sense of User Sentiment
+## Results: Making Sense of User Sentiment
 
 The results from our user study do indicate that there are several breakdowns with current platforms to provide effective interfaces for students and teaching staff to conduct office hours. Based on our results, although the general sentiment is that the current system is ineffective and often results in breakdowns when trying to replicate tasks performed in an in-person office hour setting, there is notable difference in difficulty and dissatisfaction for students over teaching staff. Perhaps this is because students are the ones who come in with higher expectations of what they expect to gain from attending office hours. This difference in sentiment can be seen in the graphics below. In user satisfaction, students felt satisfied with the office hour only 25% of the time whereas teaching staff felt satisfied with the office hour 50% of the time. In addition, all of the student responses indicated that they preferred in-person office hours whereas the teaching staff shared preference across the options.
 
@@ -85,7 +85,7 @@ The results from our user study do indicate that there are several breakdowns wi
 
 These responses, along with the 
 
-### Results: Flow Model
+## Results: Flow Model
 
 We chose to use a Flow Model to interpret our results from the diary study as the Zoom platform is primarily a communication tool. Therefore, we needed to better understand how communications of different forms happen in order to understand how to best improve the application. For this reason, a flow model was more appropriate for our evaluation than a sequential model. 
 
@@ -95,10 +95,10 @@ From the 17 responses received, all students, and almost all TAs believed that i
   <img src='/images/hci/flow.png'>
 </div>
 
-### Results: Sequence Models for Key Tasks 
+## Results: Sequence Models for Key Tasks 
 While the majority of our observations were about communication pathways using Zoom as a platform, there were a few key tasks that we were able to perform contextual inquiry and sequence modeling for. For these tasks, to ensure that we were developing robust solutions, we performed paper prototyping before we further iterated on the more interactive prototype used in the user evaluations below. 
 
-#### Task: Create a Breakout Room
+### Task: Create a Breakout Room
 
 *Sequence Model*
 <div align="center">
@@ -111,16 +111,16 @@ While the majority of our observations were about communication pathways using Z
   <img src='/images/hci/breakoutPaperPrototype.png'>
 </div>
 
-### Results: Primary Sources of Breakdowns
+## Results: Primary Sources of Breakdowns
 - Screen sharing is to an entire room, therefore students need to be put into private breakout rooms to share their screen if there is sensitive information (i.e. code) 
 - Breakout rooms need to be activated, many students and instructors do not know how to use breakout rooms functionality 
 - When joining a meeting, TA’s do not know if they have successfully launched the meeting 
 - When joining a meeting, students do not know if the TA has joined the Office Hours, if they are in the right office hours, or if the office hours have started/ended 
 - Students must use other platforms, e.g. be on phone in addition to joining zoom, if they would like to work with other students while also joining office hours 
 
-## Design Adaptations to Address Breakdowns
+# Design Adaptations to Address Breakdowns
 
-### Rooms View 
+## Rooms View 
 Current State: Only instructors can setup breakout rooms. Many instructors do not know how to setup break out rooms. Leads to breakdown and the instructor ends up keeping all students in the waiting room. Additionally, our user research led us to discover another breakdown surrounding student-student collaboration. Students are currently unable to do so as they are either in the waiting room or listening to the TA answer another student’s question. Many students reported not knowing other students in the class to work through problems and course concepts with, which leads to increased demands on the instructors. Thus to address these breakdowns, we introduced the ability for students to create breakout rooms. 
 
 We have redesigned the Zoom interface to have an interactive “Rooms” tab, where users can more seamlessly view where the TA is and discuss with other students based on topics. The TA has the additional functionality to create private breakout rooms to which users can only be assigned by the TA following the existing break out rooms assignment process. 
@@ -130,28 +130,28 @@ Instructor view on the left, student view on the right. Both students and instru
   <img src='/images/hci/roomsView.png'>
 </div>
 
-###  Pre-Office Hours Questionnaire 
+##  Pre-Office Hours Questionnaire 
 
 During our user research, we found that TA’s often struggle to address everyone’s questions in the limited amount of time, and often repeat the same recommendation to many students who all have the same question.
 
 To address this breakdown, we propose the Pre-Office Hours Questionnaire. Open for 30 minutes before office hours. Students will be able to submit what homework problems they have issues with as well as the type of question they have. TA’s will view the results when they begin their office hours, and will be able to create break out rooms related to relevant questions. Students can then join these breakout rooms to interact with other students while waiting for help. Additionally, the TA can view the types of questions people have, and structure their time accordingly. Lastly, using state of the art NLP methods, the submitted form will be analyzed and the most common questions/key words from all user submissions will be analyzed to give the TA a summary of topics that they should focus on.            
 
-*Student View:*
+### Student View
 <div align="center">
   <img src='/images/hci/formStudentView.png'>
 </div>                        
 
-*Instructor Views - Construct Form: *                             
+### Instructor Views - Construct Form:                              
 <div align="center">
   <img src='/images/hci/formTAView.png'>
 </div>
 
-*Instructor Views - View Form Results*                           
+### Instructor Views - View Form Results                           
 <div align="center">
   <img src='/images/hci/formResults.png'>
 </div>
 
-### Student: Office Hours Status
+## Office Hours Status
 
 Surprisingly, we found that both students and TA’s often wonder whether the office hours are active and whether they are on the right link. This leads to a breakdown of closing out of zoom and tracking down the link a second time to confirm they have the right one, or students emailing the TAs to check whether office hours are occurring/in progress. Therefore, after joining the link, we have added a landing page where users can see the status of office hours as well as their place in line if they are a student. 
 
@@ -159,7 +159,7 @@ Surprisingly, we found that both students and TA’s often wonder whether the of
   <img src='/images/hci/status.png'>
 </div>
 
-### Student Queue for TA
+## Student Queue for TA
 
 A breakdown we observed is that TA’s lose the order in which students join when they admit students into the meeting. Thus, may TA’s keep students in the waiting room so they can see the order in which they joined. Additionally, TA stated that they spent time with students who were only interested in listening in to the office hours, which increased overhead of the office hour. 
 
@@ -169,24 +169,24 @@ To address this breakdown, we propose an Office Hours Roster/Queue. TAs can view
   <img src='/images/hci/studentOrder.png'>
 </div>
 
-### Share to all students from breakout room
+## Share to all students from breakout room
 
 We found that many students attend office hours in order to learn from others. They often stated “you sometimes don’t know what you don’t know, until you hear other student’s questions.” Likewise, TA’s found that they were often answering questions multiple times across students. 
 
 To address these breakdowns we propose the “Share to All” and “Listen In” features. These features allow the TA to share content with the whole office hour session if they decide it may be helpful for everyone. Similar to one person asking a question at in-person office hours and the TA addresses everyone in attendance.
 
-*Instructor View:*
+### Instructor View:
 <div align="center">
   <img src='/images/hci/shareToAll.png'>
 </div>                           
 
-*Student View:*                                          
+### Student View:                                          
 The student will be able to decide whether to listen/view the content that the TA is sharing.            
 <div align="center">                  
   <img src='/images/hci/listenIn.png'>
 </div>            
 
-### Make Whiteboard More Accessible 
+## Make Whiteboard More Accessible 
 Zoom comes with a whiteboard and annotation features. But most users did not know that this feature exists. Therefore, in our redesign we have made it more prominent. In zoom’s current interface, the whiteboard feature can be shared by a user for other users to view and annotate, but when the user switches to sharing a different screen, this whiteboard is no longer visible to other users. This is non-intuitive for a format like office hours where users may want to collaboratively contribute to a derivation or switch between the screen showing the assignment and this whiteboard area. In our redesign, not only is the whiteboard feature now more visible to users, but it also stands on its own, specific to each room in the meeting. This gives users a chance to use a white-board as they may in-person as more of a space to collaborate and share visual ideas that they can easily go back and forth to as they are referencing other views in the meeting. 
 
 <div align="center">
@@ -195,43 +195,45 @@ Zoom comes with a whiteboard and annotation features. But most users did not kno
 
 
 
-## Prototype Evaluation
-### User Personas
+# Prototype Evaluation
+## User Personas
 
-*User 1*
+### User 1
 Age: 26     
 Gender: Male       
 Occupation: 5th year PhD student in Computer Science                   
 Level of platform use: High, daily use 
 User Role: Student, TA 
 
-*User 2*      
+### User 2      
 Age: 25
 Gender: Male
 Occupation: 4th year PhD student in Mechanical Engineering
 Level of platform use: High, daily use 
 User Role: TA 
 
-*User 3*
+### User 3
 Age: 26     
 Gender: Female       
 Occupation: 2nd year Masters Student                  
 Level of platform use: High, daily use 
 User Role: Student, TA
 
-*User 4*       
+### User 4       
 Age: 23     
 Gender: Female       
 Occupation: 2nd year PhD student in Biomedical Engineering                  
 Level of platform use: High, daily use      
 User Role: Student     
 
-*User 5*     
+### User 5     
 Age: 23     
 Gender: Female       
 Occupation: 2nd year PhD student in Biomedical Engineering                  
 Level of platform use: High, daily use      
 User Role: Student
+
+## Prototype Evaluation Videos
 
 ### User 1:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pJs9IxHcEXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -242,9 +244,9 @@ User Role: Student
 ### User 3: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78H6idsqfFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Evaluation Tasks
+## Prototype Evaluation Tasks
 
-**Student**                        
+### Student                       
 1. Please join a zoom session as you would a student.      
 2. Please enter your meeting id and join the meeting.      
 3. Please submit some questions for the TA.      
@@ -260,7 +262,7 @@ c. Navigate back to the rooms overview
 a. Open the whiteboard       
 b. Close the whiteboard      
       
-**TA**                        
+### TA                      
 1. Please join a zoom session as you would a host.      
 2. Since your credentials are already entered, sign in.      
 3. Setup the form for your Office Hours session      
@@ -280,7 +282,7 @@ d. Remove the student Erica from the roster since you already helped her.
 e. Close the roster       
 11. Click and drag Eve from Side Room 1 to Breakout room Q2 to help her with her problem.       
 
-### User Evaluation 
+## User Evaluation 
 
 ***Positive Feedback***                              
 **User 1:** Found the new prototype to be a significant improvement over the existing platform. He found the overall “rooms” view to be far more interactive, and as a TA appreciated the ability to organize the office hours in cases where there are many students. His favorite part of the new platform was the share screen with everyone feature and is excited to see this implemented in a high fidelity prototype. The user was confused at first by the interaction with the Rooms view, as this has not been a part of video conferencing platforms, but he noted that he has used such interfaces as part of interactive video games, and thinks this is a great addition to a Zoom-like platform. 
@@ -304,18 +306,18 @@ e. Close the roster
 
 **User 5:**  User 5 felt that although accessing the whiteboard was a lot more visible and accessible in the current interface that it would be helpful to be able to see the whiteboard and the general screen at the same time as it would allow for easier collaboration especially when people are trying to work collectively based on the same document. 
 
-## Further Iteration and Prototype Refinement
+# Further Iteration and Prototype Refinement
 
 Although user feedback from all 5 user tests performed were largely positive and identified the prototype to have added significant value to the online office hours experience, we did recognize that there are definitely areas to improve. We integrated some of the user feedback from the five prototype evaluations that were performed to make certain aspects of the design more intuitive to access and easier to use. Although we did mock up these iterative changes in our prototype, further prototype evaluation would have to be performed to better understand how these changes affect the user experience. We would continue this process of iterative prototyping and evaluation until we felt we were at a point where the user design was streamlined enough and to begin implementation and integration into the system.
 
-### Making the Whiteboard Feature More Prominent 
+## Making the Whiteboard Feature More Prominent 
 In our initial high-fidelity prototype we addressed the issue of making the whiteboard feature more visible and useful for collaborative efforts between students and teaching staff by allowing it to stand-alone from the screen-sharing capabilities and making it specific per zoom room. Taking into consideration user feedback that suggests making the whiteboard feature more prominent and visible with other screens, the prototype was changed so that when the whiteboard button is selected from the menu the whiteboard application only opens into a split screen instead of taking up the entire screen. This should allow for additional collaboration as now users may continue referencing a screen or seeing someone’s video feed while also making annotations to or viewing the collaborative room whiteboard.     
 
 <div align="center">
   <img src='/images/hci/whiteboard_iteration.png'>
 </div>
 
-### Making the Whiteboard Feature More Prominent 
+## Making the Whiteboard Feature More Prominent 
 In our initial high-fidelity prototype we addressed the issue of making the whiteboard feature more visible and useful for collaborative efforts between students and teaching staff by allowing it to stand-alone from the screen-sharing capabilities and making it specific per zoom room. Taking into consideration user feedback that suggests making the whiteboard feature more prominent and visible with other screens, the prototype was changed so that when the whiteboard button is selected from the menu the whiteboard application only opens into a split screen instead of taking up the entire screen. This should allow for additional collaboration as now users may continue referencing a screen or seeing someone’s video feed while also making annotations to or viewing the collaborative room whiteboard.     
 
 <div align="center">
