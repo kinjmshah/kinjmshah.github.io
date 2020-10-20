@@ -251,19 +251,13 @@ User Role: Student
 
 ### Prototype Evaluation Videos
 
-<div align="center"><b>
-User 1
-</b></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJs9IxHcEXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+***User 1***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pJs9IxHcEXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
 
-<div align="center"><b>
-User 2
-</b></div>
+***User 2***
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Op7jgFzwciY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div align="center"><b>
-User 3
-</b></div> 
+***User 3***
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78H6idsqfFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Prototype Evaluation Tasks
