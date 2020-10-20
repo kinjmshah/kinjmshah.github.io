@@ -48,6 +48,7 @@ While Zoom is widely used by many demographics during this COVID-19 era, our pri
 ### Diary Form Links 
 
 [Student Diary - Form](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
+
 [Student Diary - Resonses](https://docs.google.com/forms/d/1Wz797YvIhAKNiiO4G_-8z62ym9Xeb5xUJAag6hyi454/edit#responses)
 
 [Instructor/TA Diary - Form](https://forms.gle/UN4nomS1U2A6ggAM6)
@@ -252,13 +253,14 @@ User Role: Student
 ### Prototype Evaluation Videos
 
 ***User 1***
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJs9IxHcEXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pJs9IxHcEXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                   
+</br>
 ***User 2***
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Op7jgFzwciY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Op7jgFzwciY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                 
+</br>
 ***User 3***
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78H6idsqfFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78H6idsqfFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+                 
 
 ### Prototype Evaluation Tasks
 
