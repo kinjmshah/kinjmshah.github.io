@@ -27,7 +27,7 @@ Zoom has become a major video conferencing platform for universities around the 
 
 [Student Diary](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
 
-[Instructor/TA Diary]
+[Instructor/TA Diary](https://forms.gle/UN4nomS1U2A6ggAM6)
 
 ### Target User Demographic
 
@@ -35,7 +35,7 @@ While Zoom is widely used during this COVID-19 era, our primary user demographic
 
 ### Prototype Evaluation Users
 
-*User 1*
+*User 1*            
 Age: 26     
 Gender: Male       
 Occupation: 5th year PhD student in Computer Science                   
@@ -43,13 +43,13 @@ Level of platform use: High, daily use
 User Role: Student, TA 
 
 *User 2*      
-Age: 25
-Gender: Male
-Occupation: 4th year PhD student in Mechanical Engineering
-Level of platform use: High, daily use 
-User Role: TA 
+Age: 25                
+Gender: Male               
+Occupation: 4th year PhD student in Mechanical Engineering         
+Level of platform use: High, daily use                 
+User Role: TA                
 
-*User 3*
+*User 3*     
 Age: 26     
 Gender: Female       
 Occupation: 2nd year Masters Student                  
