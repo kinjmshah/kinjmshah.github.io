@@ -108,17 +108,17 @@ During our user research, we found that TA’s often struggle to address everyon
 
 To address this breakdown, we propose the Pre-Office Hours Questionnaire. Open for 30 minutes before office hours. Students will be able to submit what homework problems they have issues with as well as the type of question they have. TA’s will view the results when they begin their office hours, and will be able to create break out rooms related to relevant questions. Students can then join these breakout rooms to interact with other students while waiting for help. Additionally, the TA can view the types of questions people have, and structure their time accordingly. Lastly, using state of the art NLP methods, the submitted form will be analyzed and the most common questions/key words from all user submissions will be analyzed to give the TA a summary of topics that they should focus on.            
 
-**Student View:**
+***Student View:***
 <div align="center">
   <img src='/images/hci/formStudentView.png'>
 </div>
 
-***Instructor Views - Construct Form: ***
+***Instructor Views - Construct Form:***
 <div align="center">
   <img src='/images/hci/formTAView.png'>
 </div>
 
-***Instructor Views - View Form Results:
+***Instructor Views - View Form Results:***
 <div align="center">
   <img src='/images/hci/formResults.png'>
 </div>
