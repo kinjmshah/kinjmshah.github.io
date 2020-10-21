@@ -45,10 +45,9 @@ To understand how to best improve/create our platform for office hours, we first
 ### Target User Demographic
 While Zoom is widely used by many demographics during this COVID-19 era, our primary user demographic are university **students** and **teaching staff (instructors, teaching assistants, course assistants)**. Although as a group we covered both groups of users, we identified the need to perform further research into how this service is currently being used across a wider spectrum. Largely we understood that the experience may be different at different schools, for different courses, for different class size, and for different majors among others. To identify usability problems with current platforms we decided to do a usability study.    
 
-### Diary Form Links 
+### Diary Form and Result Links 
 
 [Student Diary - Form](https://docs.google.com/forms/d/e/1FAIpQLSdBQSXwwy4MeFa6Xqi2hXcXX9tboxZj_UnweTyj3J-ZOMpu9Q/viewform?usp=sf_link)
-
 [Student Diary - Resonses](https://docs.google.com/forms/d/1Wz797YvIhAKNiiO4G_-8z62ym9Xeb5xUJAag6hyi454/edit#responses)
 
 [Instructor/TA Diary - Form](https://forms.gle/UN4nomS1U2A6ggAM6)
@@ -84,13 +83,11 @@ The results from our user study do indicate that there are several breakdowns wi
   <img src='/images/hci/preference_response.png'>
 </div>
 
-These responses, along with the 
+These responses, along with the context provided by the remainder of the results in the diary user study indicate many breakdowns occurring, with student users having an especially difficult time navigating the interfaces and get the help they need and expect from office hours. 
 
 ### Results: Flow Model
 
 We chose to use a Flow Model to interpret our results from the diary study as the Zoom platform is primarily a communication tool. Therefore, we needed to better understand how communications of different forms happen in order to understand how to best improve the application. For this reason, a flow model was more appropriate for our evaluation than a sequential model. 
-
-From the 17 responses received, all students, and almost all TAs believed that in person office hours are much better than online. 
 
 <div align="center">
   <img src='/images/hci/flow.png'>
@@ -118,6 +115,10 @@ While the majority of our observations were about communication pathways using Z
   Task 2: Share Screen with Instructor
 </b></div>
 
+<div align="center">
+  <img src='/images/hci/screenshare_SequentialModel.png'>
+</div>
+
 ### Results: Primary Sources of Breakdowns
 - Screen sharing is to an entire room, therefore students need to be put into private breakout rooms to share their screen if there is sensitive information (i.e. code) 
 - Breakout rooms need to be activated, many students and instructors do not know how to use breakout rooms functionality 
@@ -125,10 +126,20 @@ While the majority of our observations were about communication pathways using Z
 - When joining a meeting, students do not know if the TA has joined the Office Hours, if they are in the right office hours, or if the office hours have started/ended 
 - Students must use other platforms, e.g. be on phone in addition to joining zoom, if they would like to work with other students while also joining office hours 
 
+## From Breakdowns to Design
+
+Results and context gathered from the user study allowed us to begin to develop the design of our solution. After we reviewed the results from the user study for both the student group and the teaching staff group we had a discussion about how to best address breakdowns identified and existing in current office hour platforms. For each of the breakdowns we came up with a couple of options on what kind of solution may address the problem. Additionally, we discussed what an interface for that functionality may look like, if something that has similar purpose already exists within the interface, and what may be the most intuitive solution for the user when navigating the new features. Our affinity diagram for idea generation to address each of these breakdowns can be seen below: 
+
+<div align="center">
+  <img src='/images/hci/ideas_prototype.png'>
+</div>
+
+With initial ideas of the features that we wanted to implement to address each of these breakdowns we were able to go into the design process with rough drafts of what each feature should look like. Using an iterative design process, we were able to develop, discuss, and adapt each of the added features. The final converged designs for our initial prototype are explored more in the next section.
+
 ## Design Adaptations to Address Breakdowns
 
 ### Rooms View 
-Current State: Only instructors can setup breakout rooms. Many instructors do not know how to setup break out rooms. Leads to breakdown and the instructor ends up keeping all students in the waiting room. Additionally, our user research led us to discover another breakdown surrounding student-student collaboration. Students are currently unable to do so as they are either in the waiting room or listening to the TA answer another student’s question. Many students reported not knowing other students in the class to work through problems and course concepts with, which leads to increased demands on the instructors. Thus to address these breakdowns, we introduced the ability for students to create breakout rooms. 
+In the current state, only instructors can setup breakout rooms. Many instructors do not know how to setup break out rooms. Leads to breakdown and the instructor ends up keeping all students in the waiting room. Additionally, our user research led us to discover another breakdown surrounding student-student collaboration. Students are currently unable to do so as they are either in the waiting room or listening to the TA answer another student’s question. Many students reported not knowing other students in the class to work through problems and course concepts with, which leads to increased demands on the instructors. Thus to address these breakdowns, we introduced the ability for students to create breakout rooms. 
 
 We have redesigned the Zoom interface to have an interactive “Rooms” tab, where users can more seamlessly view where the TA is and discuss with other students based on topics. The TA has the additional functionality to create private breakout rooms to which users can only be assigned by the TA following the existing break out rooms assignment process. 
 
@@ -210,9 +221,13 @@ Zoom comes with a whiteboard and annotation features. But most users did not kno
   <img src='/images/hci/whiteboard.png'>
 </div>
 
-
-
 ## Prototype Evaluation
+
+<div align="center">
+  Prototype
+</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6COgELjBw83IQ8NWevIzHliqX1qoPJ9POlLIXqZ7ePyn4wmrfMRBgPsjPZ0iuO001pl1QJV-3WDfL/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### User Personas
 
 *User 1*              
@@ -223,11 +238,11 @@ Level of platform use: High, daily use
 User Role: Student, TA 
 
 *User 2*      
-Age: 25
-Gender: Male
-Occupation: 4th year PhD student in Mechanical Engineering
-Level of platform use: High, daily use 
-User Role: TA 
+Age: 25       
+Gender: Male       
+Occupation: 4th year PhD student in Mechanical Engineering       
+Level of platform use: High, daily use        
+User Role: TA        
 
 *User 3*             
 Age: 26     
@@ -266,6 +281,16 @@ User 2
 User 3
 </b></div><br> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78H6idsqfFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+<div align="center"><b>
+User 4
+</b></div><br> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--vQNZQ26_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center"><b>
+User 5
+</b></div><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W7bLKA31UQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### Prototype Evaluation Tasks
 
@@ -344,10 +369,11 @@ In our initial high-fidelity prototype we addressed the issue of making the whit
   <img src='/images/hci/whiteboard_iteration.png'>
 </div>
 
-### Making the Whiteboard Feature More Prominent 
-In our initial high-fidelity prototype we addressed the issue of making the whiteboard feature more visible and useful for collaborative efforts between students and teaching staff by allowing it to stand-alone from the screen-sharing capabilities and making it specific per zoom room. Taking into consideration user feedback that suggests making the whiteboard feature more prominent and visible with other screens, the prototype was changed so that when the whiteboard button is selected from the menu the whiteboard application only opens into a split screen instead of taking up the entire screen. This should allow for additional collaboration as now users may continue referencing a screen or seeing someone’s video feed while also making annotations to or viewing the collaborative room whiteboard.     
+### Easier form generation 
+In our initial high-fidelity prototype the teaching staff had to use the form set-up page to generate an office hours question form where users are able to submit their questions and other useful pieces of information right before the office hour begins. Users who interacted with the prototype felt that this feature was a great way to collect information on what kinds of questions people have and get a sense of what needs to be addressed at large during the office hours. In addition, the data collected on the forms may also be used by teaching staff to better understand how people are using their office hours and what portion of the course is causing the most difficulty. Although the addition of the form is seen as useful to the users, some user’s did note that it does provide additional work for the teaching staff which is unfavorable. One user mentioned that it would be great if there was a way to integrate with submission platforms like Gradescope. As such, we added an option to import questions and question details on the form from Gradescope. This should be easy enough to integrate if the assignment is set up in Gradescope as Gradescope has the option to separate by question (which is used in tagging questions during submission) and so the assignment should already be separated in a way that is intuitive for processing during office hours.
 
 <div align="center">
-  <img src='/images/hci/whiteboard_iteration.png'>
+  <img src='/images/hci/form_iteration.png'>
 </div>
+
 
