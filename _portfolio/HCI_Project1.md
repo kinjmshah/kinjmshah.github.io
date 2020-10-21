@@ -95,7 +95,7 @@ We chose to use a Flow Model to interpret our results from the diary study as th
 </div>
 
 ### Results: Sequence Models for Key Tasks 
-While the majority of our observations were about communication pathways using Zoom as a platform, there were a few key tasks that we were able to perform contextual inquiry and sequence modeling for. For these tasks, to ensure that we were developing robust solutions, we performed paper prototyping before we further iterated on the more interactive prototype used in the user evaluations below. 
+While the majority of our observations were about communication pathways using Zoom as a platform, there were a few key tasks that we were able to perform contextual inquiry and sequence modeling for. For some of these tasks, to ensure that we were developing robust solutions, we performed paper prototyping when possible before we further iterated on the more interactive prototype used in the user evaluations below. 
 
 <div align="center"><b>
   Task 1: Create a Breakout Room
@@ -224,9 +224,9 @@ Zoom comes with a whiteboard and annotation features. But most users did not kno
 
 ## Prototype Evaluation
 
-<div align="center">
+<div align="center"><b>
   Prototype
-</div>
+</b></div>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6COgELjBw83IQ8NWevIzHliqX1qoPJ9POlLIXqZ7ePyn4wmrfMRBgPsjPZ0iuO001pl1QJV-3WDfL/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### User Personas
@@ -376,5 +376,6 @@ In our initial high-fidelity prototype the teaching staff had to use the form se
 <div align="center">
   <img src='/images/hci/form_iteration.png'>
 </div>
+
 
 
