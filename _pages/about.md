@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about the intersection of technology and medicine. My research interests focus on designing workload aware dynamic interfaces to improve human-computer interaction.
+I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about designing technologies that enable increased accessibility. My current research focuses on designing cognitive workload aware dynamic interfaces to improve human-computer interaction.
 
-My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at medical device and biotechnology companies.
+My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at global medical device and biotechnology companies.
 
-I am seeking research opportunities focused on medical device design and development. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
+I am seeking full-time research opportunities on human-computer interaction or AI teams focused on improving accessibility of AI applications. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
 
 # Education
 ### Johns Hopkins University
