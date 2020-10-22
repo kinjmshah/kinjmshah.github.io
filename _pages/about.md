@@ -25,6 +25,7 @@ Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environm
 
 *School of Engineering and Applied Sciences*     
 **B.S.E. in Bioengineering**         
+Senior Desisgn: Automated Pancreatic Cancer Diagnostic         
 
 # Recent News 
 
