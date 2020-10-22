@@ -28,6 +28,9 @@ Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environm
 
 # Recent News 
 
+<span style="color:gray">10/05/2020</span>         
+Our paper, "Feasibility of Image-based Augmented Reality Guidance of Total Shoulder Arthroplasty Using Microsoft HoloLens 1" wins **Outstanding Paper Award** at the *[MICCAI 2020 Joint Workshop on Augmented Environments for Computer Assisted Interventions](https://workshops.ap-lab.ca/aecai2020/)*
+
 <span style="color:gray">04/04/2020</span>         
 Our COVID-19 county-level summaries dataset wins the Kaggle [COVID-19 Dataset Award](https://www.kaggle.com/data/139140#796870)
 
