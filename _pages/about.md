@@ -14,12 +14,12 @@ My prior experiences involve research in point-of-care diagnostic device design 
 I am seeking full-time research opportunities on human-computer interaction or AI teams focused on improving accessibility of AI applications. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
 
 # Education
-### Johns Hopkins University
+## Johns Hopkins University
 *Whiting School of Engineering, Laboratory for Computational Sensing and Robotics*      
 **M.S.E. in Robotics**        
 Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments        
 
-### University of Pennsylvania
+## University of Pennsylvania
 *The Wharton School*    
 **B.S. in Economics**, Concentration in Operations and Information Management      
 
