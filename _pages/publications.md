@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Posters"
 permalink: /publications/
 author_profile: true
 ---
+
+**Causal model for cognitive load estimation in mixed-reality environments**        
+<ins>Kinjal Shah</ins>, Wenhao Gu, Mathias Unberath                   
+Women in Machine Learning (WiML) 2020                 
 
 **Intraoperative Guidance of Orthopaedic Instruments Using 3D Correspondence of 2D Object Instance Segmentations**           
 Irina Bataeva, <ins>Kinjal Shah</ins>, Rohan Vijayan, Runze Han, Niral Sheth, Gerhard Kleinszig, Sebastian Vogt, Greg Osgood, Jeffrey H. Siewerdsen, Ali Uneri       
