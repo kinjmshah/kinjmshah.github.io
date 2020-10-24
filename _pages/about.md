@@ -29,6 +29,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 
 # Recent News 
 
+<span style="color:gray">10/21/2020</span>         
+My thesis work was accepted as a poster presentation at the 2020 [Women in Machine Learning (WiML)](https://wimlworkshop.org/neurips2020/) workshop, co-located with NeurIPS.           
+
 <span style="color:gray">10/05/2020</span>         
 Our paper, ***Feasibility of Image-based Augmented Reality Guidance of Total Shoulder Arthroplasty Using Microsoft HoloLens 1*** wins **Outstanding Paper Award** at the [MICCAI 2020 Joint Workshop on Augmented Environments for Computer Assisted Interventions](https://workshops.ap-lab.ca/aecai2020/)
 
