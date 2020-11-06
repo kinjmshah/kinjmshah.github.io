@@ -20,7 +20,7 @@ One example that highlights the importance of inclusive design is in the develop
 <div align="center">
   <img src='/images/hci/instaExample.png'>
 </div>
-Image Source: https://about.instagram.com/blog/announcements/improved-accessibility-through-alternative-text-support
+Image Source: [https://about.instagram.com/blog/announcements/improved-accessibility-through-alternative-text-support](https://about.instagram.com/blog/announcements/improved-accessibility-through-alternative-text-support)
 
 ## Implications for Human-Centered Design
 The literature in this area, in particular from the last 2-3 years, has shown an increased focus in design processes that aim to identify mismatches in during prototyping to maximize accessibility of final products. From the published works it is clear that this process must involve 1) increasing participation of represenetative users in the design process, which can come from both improving user recruitment but also by increasing the diversity of product development teams, 2) developing the tools such as datasets to enable development of AI tools, and 3) establishing protocols that minimize bias and increase privacy.
