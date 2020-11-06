@@ -26,6 +26,9 @@ Image Source: https://about.instagram.com/blog/announcements/improved-accessibil
 Below is an interesting talk by Kriti Sharma about human bias in the development of AI technologies: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRRNeBKwvNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Implications for Human-Centered Design
+The literature in this area, in particular from the last 2-3 years, has shown an increased focus in design processes that aim to identify mismatches in during prototyping to maximize accessibility of final products. From the published works it is clear that this process must involve 1) increasing participation of represenetative users in the design process, which can come from both improving user recruitment but also by increasing the diversity of product development teams, 2) developing the tools such as datasets to enable development of AI tools, and 3) establishing protocols that minimize bias and increase privacy. 
+
 
 [1] https://dl.acm.org/doi/pdf/10.1145/1978942.1979268
 [2] https://dl.acm.org/doi/pdf/10.1145/3356727
