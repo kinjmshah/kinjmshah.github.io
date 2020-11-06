@@ -2,7 +2,6 @@
 title: "Human-Computer Interaction Assignment 2: Accessibility -- Importance of Inclusive Design"
 permalink: /portfolio/HCIAccessibility
 ---
-## Kinjal Shah 
 
 In the past decade, there has been an increased focus of using artificial intelligence to improve accessibility. This focus has lead to amazing assistive technologies such as voice assistance, voice to text, dynamic haptic text displays, and computer vision based guidance devices, just to name a few. With the increasing prevelence of studying human-computer interactions and emphasis on human-centered design processes, the importance of **inclusive design**, in particular with respect to design of accessible technologies, has become a central design principle in approaching ethical development of artificial intelligence. 
 
