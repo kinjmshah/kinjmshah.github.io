@@ -17,6 +17,7 @@ Irina Bataeva, <ins>Kinjal Shah</ins>, Rohan Vijayan, Runze Han, Niral Sheth, Ge
 Wenhao Gu, <ins>Kinjal Shah</ins>, Jonathan Knopf, Nassir Navab, Mathias Unberath         
 ***Outstanding Paper Award*** - *MICCAI 2020 Joint Workshop on Augmented Environments for Computer Assisted Interventions*         
 *Special Issue of the Journal of Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization*         
+[Paper Link](https://www.tandfonline.com/doi/full/10.1080/21681163.2020.1835556)
 
 **A County-level Dataset for Informing the United States' Response to COVID-19**    
 Benjamin D. Killeen, Jie Ying Wu, <ins>Kinjal Shah</ins>, Anna Zapaishchykova, Philipp Nikutta, Aniruddha Tamhane, Shreya Chakraborty, Jinchi Wei, Tiger Gao, Mareike Thies, Mathias Unberath        
