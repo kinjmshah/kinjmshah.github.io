@@ -29,6 +29,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 
 # Recent News 
 
+<span style="color:gray">12/18/2020</span>         
+My deep learning course final project looking at fall detection and localization from RGB video feed wins the Intuitive Surgical Best Project Award! Great way to end an amazing semester, had an amazing time working with an amazing team! Github repo coming soon.                
+
 <span style="color:gray">10/21/2020</span>         
 My thesis work was accepted as a poster presentation at the 2020 [Women in Machine Learning (WiML)](https://wimlworkshop.org/neurips2020/) workshop, co-located with NeurIPS.           
 
