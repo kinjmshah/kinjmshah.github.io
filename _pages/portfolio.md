@@ -9,6 +9,9 @@ author_profile: true
 ## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
 *Coming Soon*
 
+## [Early fall detection from video using 3D-CNNs](/portfolio/fallDetection)
+Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.          
+
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
 Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.          
 *Accepted to 2020 Haptics Symposium*
