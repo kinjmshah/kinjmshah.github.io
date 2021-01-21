@@ -18,7 +18,7 @@ The availability of fall datasets is extremely limited. Existing simulated datas
 A demo of our model performance can be seen below. The outer border represents the label (fall vs. no fall) at each timestep while the inner border represents our prediction (Red = No Fall, Green = Fall). 
 
 <div align="center">
-  <img src='/images/dl2020/dl2020_oopsGif.png'>
+  <img src='/images/dl2020/dl2020_oopsGif.gif'>
 </div>
 
 <!-- ### Datasets
