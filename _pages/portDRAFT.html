@@ -16,15 +16,16 @@ author_profile: true
       * {box-sizing: border-box;}
 
       .row {display: flex;}
+      .row:hover{background-color:rgba(255, 255, 0,0.2);}
 
       /* CREATE RESPONSIVE COLUMNS */
-/*       @media screen and (max-width: 50%) { */
+      
       .column {float: left;padding: 10px;}
       .left{width: 25%;}
       .right{width: 75%;}
 /*         .column:hover{background-color:rgba(255, 255, 0,0.2} */
-      .left:hover{background-color:rgba(255, 255, 0,0.2);}
-      .right:hover{background-color:rgba(255, 255, 0,0.2);}
+/*       .left:hover{background-color:rgba(255, 255, 0,0.2);}
+      .right:hover{background-color:rgba(255, 255, 0,0.2);} */
 
       /* Clear floats after the columns */
       .row:after {
@@ -32,7 +33,9 @@ author_profile: true
         display: table;
         clear: both;
       }
-/*       } */
+      @media screen and (max-width: 1400px) {
+        width: 100%;
+      }
     </style>
   </head>
   <body>
