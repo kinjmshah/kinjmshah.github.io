@@ -9,8 +9,12 @@ author_profile: true
 ## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
 *Coming Soon*
 
+### Presented at Women in Machine Learning Workshop, co-located with NeurIPS 2020
+
 ## [Early fall detection from video using 3D-CNNs](/portfolio/fallDetection)
-Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.          
+Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.  
+
+### Winner of Intuitive Surgical Best Project Award
 
 <div align="center">
   <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
