@@ -17,21 +17,22 @@ author_profile: true
 
       .row {display: flex;}
 
-      /* Create two equal columns that sits next to each other */
-      .column {flex: 20%;padding: 15px; /*height: 300px;  Should be removed. Only for demonstration */}
-      .column:hover{background-color:rgba(255, 255, 0,0.2}
+      /* CREATE RESPONSIVE COLUMNS */
+      @media screen and (max-width: 600px) {
+        .column {float: left;padding: 10px;}
+        .left{width: 25%;}
+        .right{width:75%;}
+        .column:hover{background-color:rgba(255, 255, 0,0.2}
+      }
     </style>
   </head>
   <body>
     <div class="row">
-      <div class="column">
-        <a class="projHeader" href="/portfolio/mastersThesis">Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments </a>
-        <p> <b><i>Presented at Women in Machine Learning Workshop, co-located with NeurIPS 2020 </i></b></p>
-        <p>Coming soon...a</p>
-      </div>
-      <div class="column">
+      <div class="column right">
         <a class="projHeader" href="/portfolio/fallDetection">Early fall detection from video using 3D-CNNs </a>
         <p>Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.</p>
+      </div>
+      <div class="column left">
         <div align="left">
           <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
         </div>
@@ -40,7 +41,6 @@ author_profile: true
     <p><a class="projHeader" href="/portfolio/mastersThesis">Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments </a></p>    
   </body>
 </html>
-
 
 ## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
 ***Presented at Women in Machine Learning Workshop, co-located with NeurIPS 2020***           
