@@ -44,13 +44,11 @@ Detected pancreatic cancer cell derived exosomes from human serum at concentrati
   <img src='/images/seniorDesign/inside.png'>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-      Column 1
-    </div>
-    <div class="col">
-      Column 2
-    </div>
+<div class="row">
+  <div class="col">
+    Column 1
+  </div>
+  <div class="col">
+    Column 2
   </div>
 </div>
