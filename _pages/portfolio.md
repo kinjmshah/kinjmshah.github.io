@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
+## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
 ***Presented at Women in Machine Learning Workshop, co-located with NeurIPS 2020***           
   
 -- Coming Soon --            
