@@ -11,12 +11,28 @@ author_profile: true
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>    
-      .projHeader { color: black; text-decoration: none; font-size: 1em}
+      .projHeader { color: black; text-decoration: none; font-size: 1em; font-weight: bold}
       .projHeader:hover {color: blue; background-color: yellow;text-decoration: underline;}
+      * {box-sizing: border-box;}
+
+      .row {display: flex;}
+
+      /* Create two equal columns that sits next to each other */
+      .column {flex: 50%;padding: 10px; height: 300px; /* Should be removed. Only for demonstration */}
     </style>
   </head>
   <body>
-    <p><b> <a class="projHeader" href="/portfolio/mastersThesis">Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments </a> </b></p>    
+    <div class="row">
+      <div class="column">
+        <a class="projHeader" href="/portfolio/mastersThesis">Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments </a>
+        <p>Some text..</p>
+      </div>
+      <div class="column">
+        <a class="projHeader" href="/portfolio/fallDetection">Early fall detection from video using 3D-CNNs </a>
+        <p>Some text..</p>
+      </div>
+    </div>
+    <p><a class="projHeader" href="/portfolio/mastersThesis">Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments </a></p>    
   </body>
 </html>
 
