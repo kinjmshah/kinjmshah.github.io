@@ -13,7 +13,7 @@ author_profile: true
 Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.          
 
 <div align="center">
-  <img src='/images/dl2020/dl2020_storyBoard.png'>
+  <img src='/images/dl2020/dl2020_storyBoard.png' width="300px"/>
 </div>
 
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
