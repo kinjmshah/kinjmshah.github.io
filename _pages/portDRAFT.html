@@ -23,6 +23,13 @@ author_profile: true
         .left{width: 25%;}
         .right{width:75%;}
         .column:hover{background-color:rgba(255, 255, 0,0.2}
+        
+        /* Clear floats after the columns */
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
       }
     </style>
   </head>
@@ -33,8 +40,8 @@ author_profile: true
         <p>Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.</p>
       </div>
       <div class="column left">
-        <div align="left">
-          <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
+        <div align="center">
+          <img src='/images/dl2020/dl2020_storyBoard.png'>
         </div>
       </div>
     </div>
