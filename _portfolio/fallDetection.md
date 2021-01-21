@@ -8,7 +8,7 @@ permalink: /portfolio/fallDetection
 Along with the aging population in the United States the fall related fatality rate is increasing - up 30% from 2007 to 2016 [1]. Every year, over 3 million elderly people are treated in emergency departments as a result of fall related injuries [1]. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Current state-of-the-art focuses on video- and sensor-based detection systems. Video based monitoring is ubiquitous in hospitals and elderly care homes where fall detection applications can be most helpful. Our work aims to recognize and detect onset of falls from the video. 
 
 <div align="center">
-  <img src='/images/dl2020_storyBoard.png'>
+  <img src='/images/dl2020/dl2020_storyBoard.png'>
 </div>
 
 ## Approach       
@@ -18,7 +18,7 @@ The availability of fall datasets is extremely limited. Existing simulated datas
 A demo of our model performance can be seen below. The outer border represents the label (fall vs. no fall) at each timestep while the inner border represents our prediction (Red = No Fall, Green = Fall). 
 
 <div align="center">
-  <img src='/images/dl2020_oopsGif.png'>
+  <img src='/images/dl2020/dl2020_oopsGif.png'>
 </div>
 
 <!-- ### Datasets
