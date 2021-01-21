@@ -12,6 +12,10 @@ author_profile: true
 ## [Early fall detection from video using 3D-CNNs](/portfolio/fallDetection)
 Designed system to recognize and localize falls from video feed using 3D-CNNs. Implemented transfer learning approach using a model pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.          
 
+<div align="center">
+  <img src='/images/dl2020/dl2020_storyBoard.png'>
+</div>
+
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
 Wearable device prototype to enable motion guidance for rehabilitation through cutaneous haptic feedback.          
 *Accepted to 2020 Haptics Symposium*
