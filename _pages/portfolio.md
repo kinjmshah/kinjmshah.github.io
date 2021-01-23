@@ -14,9 +14,7 @@ author_profile: true
 ## [Early fall detection from video using 3D-CNNs](/portfolio/fallDetection)
 ***Winner of Intuitive Surgical Best Project Award***             
 
-AI has a huge potential for social good. We focused on harnessing this potential during our Deep Learning course this past fall. I am thankful to have had the opportunity to work with an amazing team on our final project, DetectaTrip, which won an Intuitive Surgical Best Project Award!
-
-According to the CDC, over 3 million adults are treated in emergency departments for fall related injuries each year. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Our work uses a transfer learning approach from action recognition models to perform detection and localization of falls in video feed to both alert care providers and provide information that can help to assess fall severity.
+According to the CDC, over 3 million adults are treated in emergency departments for fall related injuries each year. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Our work uses a transfer learning approach from action recognition models pre-trained on the Kinetics-700 dataset to perform detection and localization of falls in video feed to both alert care providers and provide information that can help to assess fall severity.
 
 <div align="center">
   <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
