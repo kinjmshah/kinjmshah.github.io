@@ -29,6 +29,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 
 # Recent News 
 
+<span style="color:gray">01/23/2021</span>         
+Our deep learning course final project is featured in *[the Hub](https://hub.jhu.edu/2021/01/22/ethical-artificial-intelligence-deep-fakes/)*!              
+
 <span style="color:gray">12/18/2020</span>         
 My deep learning course final project looking at fall detection and localization from RGB video feed wins the Intuitive Surgical Best Project Award! Great way to end an amazing semester, had an amazing time working with an amazing team! Github repo coming soon.                
 
