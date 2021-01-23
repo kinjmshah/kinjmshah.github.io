@@ -15,7 +15,7 @@ According to the CDC, along with the aging population in the United States, the 
 The availability of fall datasets is extremely limited. Existing simulated datasets do not accurately capture falls *"in-the-wild"* as falls are unexpected actions and therefore difficult to simulate. However, action recognition is a well studied field with many open-sourced datasets. Therefore, we implemented a transfer learning approach using a [3D-ResNet architecture](https://github.com/kenshohara/3D-ResNets-PyTorch) pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.         
 
 ### Demo
-A demo of our model performance can be seen below. The outer border represents the label (fall vs. no fall) at each timestep while the inner border represents our prediction (Red = No Fall, Green = Fall). 
+A demo of our model performance can be seen below. The outer border represents the label (Fall vs. No Fall) at each timestep while the inner border represents our prediction (Green = No Fall, Red = Fall). 
 
 <div align="center">
   <img src='/images/dl2020/dl2020_oopsGif.gif' width="600px"/>
