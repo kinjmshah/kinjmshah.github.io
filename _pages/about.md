@@ -35,11 +35,12 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 .hide {
   display: none;
 }
-    
+
+.seenText { font-size: 1.2em;
+  font-weight: bold;}
+  
 .seenText:hover + .hide {
   display: block;
-  <!-- font-size: 1em; -->
-  font-weight: bold;
 }
 </style>
 </head>
@@ -47,10 +48,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 <div class="seenText">Johns Hopkins University, M.S.E.</div>
   <div class="hide"><i>Whiting School of Engineering, Laboratory for Computational Sensing and Robotics</i><br><b>M.S.E. in Robotics</b><br>Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments</div>
 <div class="seenText">University of Pennsylvania, B.S., B.S.E.</div>
-  <div class="hide"><i>The Wharton School</i><br><b>B.S. in Economics</b>, Concentration in Operations and Information Management<br><i>School of Engineering and Applied Sciences</i><br><b>B.S.E. in Bioengineering</b><br>Senior Desisgn: Automated Pancreatic Cancer Diagnostic</div>
+  <div class="hide"><i>The Wharton School</i><br><b>B.S. in Economics</b>, Concentration in Operations and Information Management<br><i>School of Engineering and Applied Sciences</i><br><b>B.S.E. in Bioengineering</b><br>Senior Desisgn: Automated Pancreatic Cancer Diagnostic</div><br>
 </body>
 </div>
-
 
 # Recent News 
 
