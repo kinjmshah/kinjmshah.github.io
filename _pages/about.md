@@ -45,6 +45,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 </style>
 </head>
 <body>
+  
+## Johns Hopkins University 
+
 <div class="seenText">Johns Hopkins University, M.S.E.</div>
   <div class="hide"><i>Whiting School of Engineering, Laboratory for Computational Sensing and Robotics</i><br><b>M.S.E. in Robotics</b><br>Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments</div>
 <br>
