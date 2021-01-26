@@ -8,7 +8,7 @@ Food allergies affect more than 32 million Americans each year [1]. Reactions to
 ### Inclusive Design
 In a recent talk, Kat Holmes discusses how it is the responsibility of designers to minimize mismatches between a person’s body and the designed interface/technology [2]. The current restaurant search process creates a significant mismatch between the needs of individuals with allergies and the current available technologies. Our solution aims to use inclusive design principles; in particular, by collaborating at each iteration step with a co-designer who has a severe allergy to create a solution that addresses this mismatch. 
 
-[Design Book](https://kinjmshah.github.io/files/HCI_AllergyAccessibility.pdf))
+[Design Book](https://kinjmshah.github.io/files/HCI_AllergyAccessibility.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ibyd0vtyCgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
