@@ -1,6 +1,6 @@
 ---
 title: "Human-Computer Interaction Contextual Inquiry and Low-Fidelity Prototyping"
-permalink: /portfolio/Low-Fid-Protyping
+permalink: /portfolio/HCI-Low-Fid-Protyping
 ---
 
 # Proposed Platform Re-design: Google Scholar 
