@@ -3,9 +3,7 @@ title: "Human-Computer Interaction: Design Remote Interactions - Zoom Re-design"
 permalink: /portfolio/HCI-Designing-Remote-Interactions
 ---
 
-Kinjal Shah, Kaiyu Shi, Erica Tevere
-
-## Introduction to Project
+*Kinjal Shah, Kaiyu Shi, Erica Tevere*       
 
 The goal of our project was to go through an end-to-end design process and apply techniques we have learned to improve or create digital services that facilitate remote interactions. Remote interactions include but are not limited to services in the realm of learning telemedicine, distributed collaborative work, and social connection. Drawing on our own experiences of online interactions, we looked into several possible ideas and selected the one we felt would have the greatest impact on user experience.
 
