@@ -8,7 +8,7 @@ Detected pancreatic cancer cell derived exosomes from human serum at concentrati
 **Bioengineering Senior Design Award**           
 **1st Honorable Mention - SEAS Senior Design Competition**                  
 
-[Senior Design Competition Presentation Video](#Senior-Design-Compeition-Presentation)
+[Senior Design Competition Presentation Video](#seniorDesignVideo)
 
 ## Motivation
 Point of care diagnostics still require significant manual pre-processing with expensive, non-portable equipment. To make point of care diagnostics a reality, complete sample processing needs to take place on-chip at the patient bedside. 
@@ -36,5 +36,7 @@ The CAD model was designed in SolidWorks and 3D printed. The syringes were seale
 
 ## Senior Design Compeition Presentation
 <div align="center">
+  <a name="seniorDesignVideo">
   <iframe width="352" height="198" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </a>
 </div>
