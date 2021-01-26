@@ -6,9 +6,12 @@ permalink: /portfolio/UPennSeniorDesign
 Detected pancreatic cancer cell derived exosomes from human serum at concentrations modeling precancerous stages by developing an automated, microfluidics based point-of-care diagnostic device. Created automated, cost-effective, on-chip serum processing and diagnosis protocol involving 3D printed encasingdesigned using SolidWorks, Arduino based microcontroller, and image processing using MATLAB.          
 
 ### Bioengineering Senior Design Award
-### 1st Honorable Mention - School of Engineering and Applied Science Senior Design Competition
+### 1st Honorable Mention - School of Engineering and Applied Science Senior Design Competition        
 <!-- [Senior Design Competition Presentation Video](https://www.youtube.com/watch?v=NbAuyVjuLLE&t=1s) -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+  <iframe width="352" height="198" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Motivation
 Point of care diagnostics still require significant manual pre-processing with expensive, non-portable equipment. To make point of care diagnostics a reality, complete sample processing needs to take place on-chip at the patient bedside. 
