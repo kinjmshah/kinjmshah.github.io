@@ -13,46 +13,42 @@ My prior experiences involve research in point-of-care diagnostic device design 
 
 *I am seeking full-time research opportunities on human-computer interaction or AI teams focused on improving accessibility of AI applications. Please contact me if you have opportunities within this space at kshah31@jhu.edu.*
 
-<!-- # Education
+# Education
 ## Johns Hopkins University
 *Whiting School of Engineering, Laboratory for Computational Sensing and Robotics*      
 **M.S.E. in Robotics**        
-Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments  -->      
+Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments        
 
-<!-- ## University of Pennsylvania
+## University of Pennsylvania
 *The Wharton School*    
-**B.S. in Economics**, Concentration in Operations and Information Management -->          
+**B.S. in Economics**, Concentration in Operations and Information Management           
 
-<!-- *School of Engineering and Applied Sciences*     
+*School of Engineering and Applied Sciences*     
 **B.S.E. in Bioengineering**         
-Senior Desisgn: Automated Pancreatic Cancer Diagnostic     -->
+Senior Desisgn: Automated Pancreatic Cancer Diagnostic     
 
-# Education 
-
+<!-- # Education 
 <div>
 <head>
 <style>
 .hide {
   display: none;
 }
-
 .seenText { font-size: 1.2em;
   font-weight: bold;}
-  
 .seenText:hover + .hide {
   display: block;
 }
 </style>
 </head>
 <body>
-
 <div class="seenText">Johns Hopkins University, M.S.E.</div>
   <div class="hide"><br><i>Whiting School of Engineering, Laboratory for Computational Sensing and Robotics</i><br><b>M.S.E. in Robotics</b><br>Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments</div>
 <br>
 <div class="seenText">University of Pennsylvania, B.S., B.S.E.</div>
   <div class="hide"><br><i>The Wharton School</i><br><b>B.S. in Economics</b>, Concentration in Operations and Information Management<br><br><i>School of Engineering and Applied Sciences</i><br><b>B.S.E. in Bioengineering</b><br>Senior Desisgn: Automated Pancreatic Cancer Diagnostic</div><br>
 </body>
-</div>
+</div> -->
 
 # Recent News 
 
