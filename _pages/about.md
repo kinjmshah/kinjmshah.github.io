@@ -28,8 +28,6 @@ Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environm
 Senior Desisgn: Automated Pancreatic Cancer Diagnostic     
 
 # Education 
-## Johns Hopkins University, M.S.E.
-## University of Pennsylvania, B.S., B.S.E.
 
 <div>
 <head>
@@ -40,17 +38,16 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
     
 .seenText:hover + .hide {
   display: block;
+  <!-- font-size: 1em; -->
+  font-weight: bold;
 }
 </style>
 </head>
 <body>
-
-<h2>Display an Element on Hover</h2>
-
-<div class="seenText">Hover over me.</div>
-<div class="hide">I am shown when someone hovers over the div above.</div>
-<div>RANDOM</div>
-
+<div class="seenText">Johns Hopkins University, M.S.E.</div>
+  <div class="hide"><i>Whiting School of Engineering, Laboratory for Computational Sensing and Robotics</i><br><b>M.S.E. in Robotics</b><br>Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments</div>
+<div class="seenText">University of Pennsylvania, B.S., B.S.E.</div>
+  <div class="hide"><i>The Wharton School</i><br><b>B.S. in Economics</b>, Concentration in Operations and Information Management<br><i>School of Engineering and Applied Sciences</i><br><b>B.S.E. in Bioengineering</b><br>Senior Desisgn: Automated Pancreatic Cancer Diagnostic</div>
 </body>
 </div>
 
