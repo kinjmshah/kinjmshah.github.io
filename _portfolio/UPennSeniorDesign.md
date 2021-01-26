@@ -34,9 +34,13 @@ The CAD model was designed in SolidWorks and 3D printed. The syringes were seale
   <img src='/images/seniorDesign/cadModel.png'>   <img src='/images/seniorDesign/inside.png'>
 </div>
 
+<div>
+<a name="seniorDesignVideo">
+
 ## Senior Design Compeition Presentation
 <div align="center">
-  <a name="seniorDesignVideo">
   <iframe width="352" height="198" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </a>
+</div>
+
+</a>
 </div>
