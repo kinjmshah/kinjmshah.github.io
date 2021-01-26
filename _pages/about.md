@@ -25,7 +25,35 @@ Master's Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environm
 
 *School of Engineering and Applied Sciences*     
 **B.S.E. in Bioengineering**         
-Senior Desisgn: Automated Pancreatic Cancer Diagnostic         
+Senior Desisgn: Automated Pancreatic Cancer Diagnostic     
+
+# Education 
+## Johns Hopkins University, M.S.E.
+## University of Pennsylvania, B.S., B.S.E.
+
+<div>
+<head>
+<style>
+.hide {
+  display: none;
+}
+    
+.seenText:hover + .hide {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<h2>Display an Element on Hover</h2>
+
+<div class="seenText">Hover over me.</div>
+<div class="hide">I am shown when someone hovers over the div above.</div>
+<div>RANDOM</div>
+
+</body>
+</div>
+
 
 # Recent News 
 
