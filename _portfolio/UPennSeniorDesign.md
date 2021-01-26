@@ -8,11 +8,7 @@ Detected pancreatic cancer cell derived exosomes from human serum at concentrati
 **Bioengineering Senior Design Award**           
 **1st Honorable Mention - SEAS Senior Design Competition**                  
 
-<!-- [Senior Design Competition Presentation Video](https://www.youtube.com/watch?v=NbAuyVjuLLE&t=1s) -->
-
-<div align="center">
-  <iframe width="352" height="198" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Senior Design Competition Presentation Video](https://www.youtube.com/watch?v=NbAuyVjuLLE&t=1s)
 
 ## Motivation
 Point of care diagnostics still require significant manual pre-processing with expensive, non-portable equipment. To make point of care diagnostics a reality, complete sample processing needs to take place on-chip at the patient bedside. 
@@ -36,4 +32,9 @@ The automation involves arduino-programming to control a servo motor to rotate a
 The CAD model was designed in SolidWorks and 3D printed. The syringes were sealed with parafilm to create a vaccum in the tube to hold the liquid until the film is punctured by the needle attached to the solenoid. The syringes are held in a rotating disk which positions the appropriate reagent at the necessary time, as controlled by the microcontroller. 
 <div align="center">
   <img src='/images/seniorDesign/cadModel.png'>   <img src='/images/seniorDesign/inside.png'>
+</div>
+
+## School of Engineering and Applied Science Senior Design Compeition Presentation
+<div align="center">
+  <iframe width="352" height="198" src="https://www.youtube.com/embed/NbAuyVjuLLE?start=233" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
