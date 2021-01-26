@@ -10,7 +10,7 @@ In a recent talk, Kat Holmes discusses how it is the responsibility of designers
 
 
 #### References
-[1] https://www.foodallergy.org/resources/facts-and-statistics 
+[1] https://www.foodallergy.org/resources/facts-and-statistics              
 [2] https://www.youtube.com/watch?v=-iccWRhKZa8 
 
 
