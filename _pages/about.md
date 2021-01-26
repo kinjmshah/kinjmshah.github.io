@@ -11,7 +11,7 @@ I am a graduate student studying Robotics in the Laboratory of Computational Sen
 
 My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at global medical device and biotechnology companies.
 
-I am seeking full-time research opportunities on human-computer interaction or AI teams focused on improving accessibility of AI applications. Please contact me if you have opportunities within this space at kshah31@jhu.edu.
+*I am seeking full-time research opportunities on human-computer interaction or AI teams focused on improving accessibility of AI applications. Please contact me if you have opportunities within this space at kshah31@jhu.edu.*
 
 # Education
 ## Johns Hopkins University
