@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
---- 
+--- -->
 {% include base_path %}
 
 ## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
