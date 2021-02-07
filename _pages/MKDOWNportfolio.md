@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Portfolio"
-permalink: /MKDOWNportfolio/
+permalink: /portfolio/MKDOWNportfolio/
 author_profile: true
 ---
 {% include base_path %}
