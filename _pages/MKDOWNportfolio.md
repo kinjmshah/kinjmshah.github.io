@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: archive
 title: "Portfolio"
-permalink: /portfolio/
+permalink: /MKDOWNportfolio/
 author_profile: true
---- -->
+---
 {% include base_path %}
 
 ## [Masters Thesis: Cognitive Load Aware User Interfaces for Mixed Reality Environments](/portfolio/mastersThesis)
@@ -14,11 +14,32 @@ author_profile: true
 ## [Early fall detection from video using 3D-CNNs](/portfolio/fallDetection)
 ***Winner of Intuitive Surgical Best Project Award***             
 
-According to the CDC, over 3 million adults are treated in emergency departments for fall related injuries each year. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Our work uses a transfer learning approach from action recognition models pre-trained on the Kinetics-700 dataset to perform detection and localization of falls in video feed to both alert care providers and provide information that can help to assess fall severity.
+<!-- According to the CDC, over 3 million adults are treated in emergency departments for fall related injuries each year. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Our work uses a transfer learning approach from action recognition models pre-trained on the Kinetics-700 dataset to perform detection and localization of falls in video feed to both alert care providers and provide information that can help to assess fall severity. -->
 
-<div align="center">
-  <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
+<div>
+<head>
+<style>
+.hide {
+  display: none;
+}
+.seenText { font-size: 1em;}
+.seenText:hover + .hide {
+  display: block;
+}
+</style>
+</head>
+<body>
+  <div class="seenText">According to the CDC, over 3 million adults are treated in emergency departments for fall related injuries each year. Accurate and real-time detection of falls is vital to timely intervention and minimization of long term effects. Our work uses a transfer learning approach from action recognition models pre-trained on the Kinetics-700 dataset to perform detection and localization of falls in video feed to both alert care providers and provide information that can help to assess fall severity.
+  </div>
+  <div class="hide" align="center">
+    <img src='/images/dl2020/dl2020_storyBoard.png' width="600px"/>
+  </div>
+</body>
 </div>
+
+<!-- <div align="center">
+  <img src='/images/dl2020/dl2020_storyBoard.png' width="400px"/>
+</div> -->
 
 ## [Haptic Feedback for Upper Limb Motion Guidance](/portfolio/hapticGuidance)
 ***Accepted to 2020 Haptics Symposium***              
