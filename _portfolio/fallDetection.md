@@ -25,4 +25,13 @@ A demo of our model performance can be seen below. The outer border represents t
 Simulated Falls: [URFD](http://fenix.univ.rzeszow.pl/~mkepski/ds/uf.html)
 Real-World Falls: Using post processing of the recently released [Oops! dataset](https://oops.cs.columbia.edu/) we were able to extract a small dataset of real-world falls -->
 
+## Awards
+
+### Intuitive Surgical Best Project Award
+
+<div align="center">
+  <img src='/images/dl2020/award.png' width="600px"/>
+</div>
+
+
 
