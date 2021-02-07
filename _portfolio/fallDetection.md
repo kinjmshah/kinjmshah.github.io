@@ -29,9 +29,31 @@ Real-World Falls: Using post processing of the recently released [Oops! dataset]
 
 ### Intuitive Surgical Best Project Award
 
-<div align="center">
-  <img src='/images/dl2020/award.png' width="600px"/>
+<div>
+<head>
+<style>
+.hide {
+  display: none;
+}
+.seenText { font-size: 1.2em;
+  font-weight: bold;}
+.seenText:hover + .hide {
+  display: block;
+}
+</style>
+</head>
+<body>
+<div class="seenText" align="center">Intuitive Surgical Best Project Award</div>
+  <div class="hide" align="center">
+    <img src='/images/dl2020/award.png' width="600px"/>
+  </div>
+</body>
 </div>
+
+
+<!-- <div align="center">
+  <img src='/images/dl2020/award.png' width="600px"/>
+</div> -->
 
 
 
