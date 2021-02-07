@@ -27,8 +27,6 @@ Real-World Falls: Using post processing of the recently released [Oops! dataset]
 
 ## Awards
 
-### Intuitive Surgical Best Project Award
-
 <div>
 <head>
 <style>
