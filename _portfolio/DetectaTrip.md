@@ -1,6 +1,6 @@
 ---
 title: "Early fall detection from video using 3D-CNNs"
-permalink: /portfolio/fallDetection
+permalink: /portfolio/detectaTrip
 ---
 
 *Code and initial results coming soon*            
