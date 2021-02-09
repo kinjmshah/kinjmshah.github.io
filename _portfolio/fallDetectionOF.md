@@ -5,14 +5,16 @@ permalink: /portfolio/fallDetectionOF
 
 *Code coming soon* 
 
-We aim to use optical flow and human pose tracking to localize falls from standard RGB video feed. We performed our analysis with videos from a simulated falls database labeled with fall onset and offset, and our a self generated dataset of simulated falls.
+We aim to use optical flow and human pose tracking to localize falls from standard RGB video feed. We performed our analysis with videos from a simulated falls database labeled with fall onset and offset, and our a self generated dataset of simulated falls. Our implemetation approach leveraged OpenCV and FacebookAI's Detectron2 libraries. An overview of our approach can be seen below, further details can be found in the attached report and presentation. 
+
+[OptiTrip Report]()
 
 <div align="center">
-  <img src='/images/dl2020/dl2020_storyBoard.png' width="600px"/>
+  <img src='/images/cv2020/processOverview.png' width="600px"/>
 </div>
 
-## Approach: 3D-CNNs       
-The availability of fall datasets is extremely limited. Existing simulated datasets do not accurately capture falls *"in-the-wild"* as falls are unexpected actions and therefore difficult to simulate. However, action recognition is a well studied field with many open-sourced datasets. Therefore, we implemented a transfer learning approach using a [3D-ResNet architecture](https://github.com/kenshohara/3D-ResNets-PyTorch) pretrained on the Kinetics-700 action recognition dataset and performed supervised fine-tuning on fall datasets.         
+## Presentation
+<iframe src="https://onedrive.live.com/embed?cid=6CC13FE5E023D836&amp;resid=6CC13FE5E023D836%21107&amp;authkey=AP8Tlq8Wt064RTg&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 ### Demo
 A demo of our model performance can be seen below. The outer border represents the label (Fall vs. No Fall) at each timestep while the inner border represents our prediction (Green = No Fall, Red = Fall). 
