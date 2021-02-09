@@ -14,7 +14,9 @@ We aim to use optical flow and human pose tracking to localize falls from standa
 </div>
 
 ## Presentation
+<div align="center">
 <iframe src="https://onedrive.live.com/embed?cid=6CC13FE5E023D836&amp;resid=6CC13FE5E023D836%21107&amp;authkey=AP8Tlq8Wt064RTg&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+</div>
 
 ### Demo
 A demo of our model performance can be seen below. The outer border represents the label (Fall vs. No Fall) at each timestep while the inner border represents our prediction (Green = No Fall, Red = Fall). 
