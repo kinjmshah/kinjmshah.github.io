@@ -7,7 +7,9 @@ author_profile: true
 
 ## Dance 
 
-*Coming Soon*
+I have been dancing since I could walk in a variety of Indian dance forms including Garba/Raas, Bharatnatyam, and Fusion. When I am not debugging code, I can often be found learning new routines from online tutorials or trying my hand at my own choreography.         
+
+*More Details Coming Soon*
 
 ## Food 
 
