@@ -12,7 +12,7 @@ permalink: /hobbies/foodBoston
 - **Aeronaut Brewery**
 - Painted Burro 
 - Saloon (Speakeasy!)
-- Lamlighter
+- Lamplighter
 
 ### Boston
 - Lolita
@@ -22,6 +22,7 @@ permalink: /hobbies/foodBoston
 ## Coffee Shops, Cafes, and Dessert 
 - JP Licks (all around) 
 - Mike's Pastry (Cambridge/North End)
+- Scoop and Scootery (delivery ice cream :D) 
 
 ### Somerville/Cambridge
 - **Bagelsaurus**
