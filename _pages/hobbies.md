@@ -15,4 +15,4 @@ I have been dancing since I could walk in a variety of Indian dance forms includ
 
 I love trying new restaurants and dishes, especially if it is vegetarian and contains mushrooms! To help myself keep track of what I have tried, I will post some of my favorite retauraunts and things to do by city as well as some of my favorite recipes. Currently I only have a guide for Boston, but a Philly one is in progress, and following grad school hopefully I'll have a new city to explore!       
 
-[**A Vegetarian's Guide to Boston**](/hobbies/foodBoston)
+[**Kinjal's Guide to Boston**](/hobbies/foodBoston)
