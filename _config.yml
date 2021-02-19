@@ -186,6 +186,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  hobbies:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,15 @@ defaults:
       layout: talk
       author_profile: false
       share: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: hobbies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
