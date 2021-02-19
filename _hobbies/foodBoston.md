@@ -1,80 +1,63 @@
+---
+title: "Kinjal's Ultimate Guide to Boston (but really Somerville/Cambridge), MA"
+permalink: /portfolio/foodBoston
+---
 
+*Anything bolded is an all time favorite, please note this will be a vegetarian friendly list in most cases since I am vegetarian! I put this list together for some friends who were moving to Boston, thought I would share here to help myself keep track of it and maybe help others who stumble upon it find some awesome food in Boston. Disclaimer, I am a pickly eater and have likely only tried 3-4 dishes at each place :D.* 
 
+## Bars & Breweries (and Cideries!) 
 
-Anything bolded is an all time favorite 
+### Somerville/Cambridge
+- **Bantam Cider**
+- **Aeronaut Brewery**
+- Painted Burro 
+- Saloon (Speakeasy!)
+- Lamlighter
 
-If you are adding please pick a color! We want to be able to test out everything! :D 
-Black - Kinjal/Udit (Vegetarian)
-Purple - Taylor
+### Boston
+- Lolita
+- Harpoon Brewery 
+- Downeast Cider
 
-Bars
+## Coffee Shops, Cafes, and Dessert 
+- JP Licks (all around) 
+- Mike's Pastry (Cambridge/North End)
 
-Bantam Cider (somerville)
-Aeronaut Brewery (somerville)
-Painted Burro (somerville) - best margs ever (their mexican food is also great)
-Harpoon Brewery (Boston) - must get pretzels
-Lamplighter (cambridge)
-Lolita (boston) 
-Saloon (Somerville) - speakeasy :D 
-Roxy’s/ A4cade (Cambridge) - barcade and grilled cheese
-Yvonne’s (Boston) - upscale speakeasy
+### Somerville/Cambridge
+- **Bagelsaurus**
+- Union Square Donuts 
+- Petsi Pies 
+- Broadsheet Cafe
+- Tatte
+- The Biscuit 
+- 3 Little Figs
+- Zinnekan's Belgian Waffels
 
-Snacks
-JP Licks (all over) - BEST ICE CREAM EVER
-Union Square Donuts (Somerville)
-Mike’s Pastry (Cambridge or North End) - well known cannolis
-Petsi Pies (Cambridge) - their mudslide pie is chocolate lover heaven 
-Modern Pastry (North End) - cannolis (personally I like them better than Mikes)
-FoMu (multiple locations) - Vegan Ice Cream
+## Food 
 
-Food
+### Somerville/Cambridge
+- **Siam Ginger**
+- **Veggie Crust** - Paneer Manchurian pizza is a personal favorite - pro-tip, order Veggie Crust then go eat it at Aeronaut while playing board games and having some delicious beers and ciders 
+- Martsa on Elm
+- Mad Monkfish
+- Spices Thai
+- Veggie Galaxy 
+- Neighborhood Kitchen 
+- Cambridge Brewing Company
+- Sarma
+- Cafe Luna
+- Highland Kitchen
 
-Martsa on Elm (somerville) - used to be fantastic, recently not as good (comment added Nov 2020)
-Siam Ginger (somerville - union square) - recently has become our favorite thai 
-Veggie Crust (somerville) - owners of a dosa place started a pizza place next door, THIS IS THE BEST PIZZA - you have to try their paneer manchurian pizza - SO GOOD  
-Pro tip - order veggie crust then go eat it at Aeronaut while playing board games (As long as you buy beer/cider, Aeronaut lets you bring in food)
-Kala Thai (Boston) 
-3 Little Figs (Somerville) - carryout breakfast and lunch with great coffee, baked goods, sandwiches and smoothies (get the pepper biscuit)
-Bagelsaurus (Somerville) - SO GOOD, often has a long line so go early! 
-Sweet Rice (Boston) - really good thai food! 
-The Mad Monkfish (Cambridge) - sushi with live jazz music
-Grotto (Boston)
-Spicies Thai (Cambridge) 
-Veggie Galaxy (cambridge) - good for brunch
-Friendly Toast (cambridge) - good for brunch - cambridge one closed down :’( 
-Neighborhood Kitchen (Somerville) - good for brunch 
-Cambridge Brewing Company (cambridge) - Really fun to sit outside
-Myers and Chang (boston) - $$$ good veggie options
-Sarma (somerville) - really $$$ but SO GOOD (save for a special occasion) 
-Cafe Luna (cambridge) - good for brunch
-Faneuil Hall/Quincy Market (boston) - really famous, lots of food/shopping
-Carmelinas - REALLY good italian, good veggie options, take out from their sister restaurant domenics 
-Highland Kitchen (somerville) - good for brunch
-Rosebud (Somerville) - American, leave room for pie!
-Flour (all around) - cafe/bakery
-Zinnekan’s (Cambridge) - Belgian waffles
-Life Alive (Cambridge and Boston) - Vegan food and smoothies
-Parish (South End) - american, get the mac and cheese - closed forever :( 
-Tatte (all over) - cafe
-Henrietta’s Table (Cambridge) - farm to table
+### Boston
+- Kala Thai 
+- Sweet Rice
+- Myers and Chang
+- Carmelinas 
 
-Meat Heavy Food
-Hei La Moon (Boston) - dim sum with carts
-Happy Lamb Hot Pot (Cambridge) - hot pot
-Mooo (Boston) - nice steakhouse with extensive wine list
-Sweet Cheeks Q (Boston) - BBQ, get the biscuits with honey butter!
-Gyro City (multiple locations) - Greek food
-Legal Seafood (multiple locations but there is a test kitchen and a multi-level one in seaport) - Seafood
-Fogo de Chao (Boston) - nice all you can eat Braziallian steakhouse
-Toro (South End) - tapas
-Red Bones (Somerville) - BBQ
+## Activities
 
-Activities
-
-Trapology Escape Rooms - must do once its allowed again!! 
-Boda Borg - MUST DO once its open - boston is the only US location - they are popular in europe 
-Candlepin Bowling (Sacco’s Bowl Haven/ Flatbread is an option in Davis Square, Somerville and Flatbread has another location in Brighton)
-Kayaking on the charles 
-Thirsty Scholar Pub (Somerville) - Drinks are meh, but this is where the opening scene of the social network was shot 
-Walk the freedom trail
-Sports! Especially the Red Sox or Celtics
+- Trapology Escape Rooms - must do once its allowed again!! 
+- **Boda Borg** - MUST DO once its open
+- Candlepin Bowling
+- Kayaking on the charles 
+- Faneuil Hall/Quincy Market
