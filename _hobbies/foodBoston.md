@@ -1,6 +1,6 @@
 ---
 title: "Kinjal's Ultimate Guide to Boston (but really Somerville/Cambridge), MA"
-permalink: /portfolio/foodBoston
+permalink: /hobbies/foodBoston
 ---
 
 *Anything bolded is an all time favorite, please note this will be a vegetarian friendly list in most cases since I am vegetarian! I put this list together for some friends who were moving to Boston, thought I would share here to help myself keep track of it and maybe help others who stumble upon it find some awesome food in Boston. Disclaimer, I am a pickly eater and have likely only tried 3-4 dishes at each place :D.* 
