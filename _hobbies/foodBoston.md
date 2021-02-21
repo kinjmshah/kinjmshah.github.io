@@ -1,6 +1,6 @@
 ---
 title: "Kinjal's Ultimate Guide to Boston (but really Somerville/Cambridge), MA"
-permalink: /hobbies/foodBoston
+permalink: /hobbies/bostonList
 ---
 
 *Anything bolded is an all time favorite, please note this will be a vegetarian friendly list in most cases since I am vegetarian! I put this list together for some friends who were moving to Boston, thought I would share here to help myself keep track of it and maybe help others who stumble upon it find some awesome food in Boston. Disclaimer, I am a pickly eater and have likely only tried 3-4 dishes at each place :D.* 
@@ -57,8 +57,8 @@ permalink: /hobbies/foodBoston
 
 ## Activities
 
-- Trapology Escape Rooms - must do once its allowed again!! 
-- **Boda Borg** - MUST DO once its open
+- Trapology Escape Rooms
+- **Boda Borg** - MUST DO 
 - Candlepin Bowling
 - Kayaking on the charles 
 - Faneuil Hall/Quincy Market
