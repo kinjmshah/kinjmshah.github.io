@@ -11,7 +11,7 @@ author_profile: true
 
 **Intraoperative Guidance of Orthopaedic Instruments Using 3D Correspondence of 2D Object Instance Segmentations**           
 Irina Bataeva, <ins>Kinjal Shah</ins>, Rohan Vijayan, Runze Han, Niral Sheth, Gerhard Kleinszig, Sebastian Vogt, Greg Osgood, Jeffrey H. Siewerdsen, Ali Uneri       
-*SPIE Medical Imaging 2021*
+*SPIE Medical Imaging 2021*             
 [Paper link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11598/1159826/Intraoperative-guidance-of-orthopaedic-instruments-using-3D-correspondence-of-2D/10.1117/12.2582239.full)
 
 **Feasibility of Image-based Augmented Reality Guidance of Total Shoulder Arthroplasty Using Microsoft HoloLens1**         
