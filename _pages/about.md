@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## testing 404 error bug
+
 I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about applications of **AI for Social Good**; in particular, designing technologies that improve accessibility. My current research focuses on designing cognitive workload aware dynamic interfaces to improve human-AI interactions.
 
 My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at global medical device and biotechnology companies.
