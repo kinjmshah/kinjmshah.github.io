@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student studying Robotics in the Laboratory of Computational Sensing and Robotics at Johns Hopkins University, passionate about applications of **AI for Social Good**; in particular, designing technologies that improve accessibility. My current research focuses on designing cognitive workload aware dynamic interfaces to improve human-AI interactions.
+I am a recent graduate of Johns Hopkins University where I earned my MSE in Robotics in the Laboratory of Computational Sensing and Robotics. I am passionate about applications of **AI for Social Good**; in particular, designing technologies that improve accessibility or enabled personalized healthcare. My current research focuses on designing cognitive workload aware dynamic interfaces to improve human-AI interactions.
 
 My prior experiences involve research in point-of-care diagnostic device design and industry experience in technologies enabling accelerated R&D at global medical device and biotechnology companies.
 
@@ -52,6 +52,9 @@ Senior Desisgn: Automated Pancreatic Cancer Diagnostic
 </div> -->
 
 # Recent News 
+
+<span style="color:gray">05/27/2021</span>         
+I officially graduate with my Master of Science in Engineering degree! Thank you to my family, friends, and mentors who have been my support and inspiration throughout this degree!      
 
 <span style="color:gray">01/23/2021</span>         
 Our deep learning course final project is featured in *[the Hub](https://hub.jhu.edu/2021/01/22/ethical-artificial-intelligence-deep-fakes/)*!              
