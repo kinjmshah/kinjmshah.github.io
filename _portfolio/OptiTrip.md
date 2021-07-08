@@ -5,8 +5,8 @@ permalink: /portfolio/optiTrip
 
 We aim to use optical flow and human pose tracking to localize falls from standard RGB video feed. We performed our analysis with videos from a simulated falls database labeled with fall onset and offset, and our a self generated dataset of simulated falls. Our implemetation approach leveraged OpenCV and FacebookAI's Detectron2 libraries. An overview of our approach can be seen below, further details can be found in the attached report and presentation. 
 
-[OptiTrip Report](https://www.kinjshah.com/files/OptiTrip.pdf)
-[OptiTrip Code](https://github.com/kinjmshah/OptiTrip-Fall-Detection)
+[OptiTrip Report](https://www.kinjshah.com/files/OptiTrip.pdf)                
+[OptiTrip Code](https://github.com/kinjmshah/OptiTrip-Fall-Detection)               
 
 <div align="center">
   <img src='/images/cv2020/processOverview.png' width="600px"/>
